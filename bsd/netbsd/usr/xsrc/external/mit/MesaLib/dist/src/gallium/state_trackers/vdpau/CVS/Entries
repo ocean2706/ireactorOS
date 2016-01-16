@@ -1,0 +1,16 @@
+/Makefile.am/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/Makefile.sources/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/bitmap.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/decode.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/device.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/ftab.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/htab.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/mixer.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/output.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/preemption.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/presentation.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/query.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/surface.c/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+/vdpau_private.h/1.1.1.1.2.2/Mon Jan  5 20:58:52 2015//Tnetbsd-7-0-RELEASE
+D

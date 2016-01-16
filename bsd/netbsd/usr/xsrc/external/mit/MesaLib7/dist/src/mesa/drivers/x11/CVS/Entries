@@ -1,0 +1,26 @@
+/Makefile/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/descrip.mms/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/fakeglx.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/fxmesa.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/glxapi.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/glxapi.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/glxheader.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/realglx.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/realglx.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xfonts.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xfonts.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_api.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_buffer.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_dd.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_glide.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_glide.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_image.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_image.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_line.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_span.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xm_tri.c/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xmesa.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xmesaP.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xmesa_x.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+/xmesa_xf86.h/1.1.1.1.2.2/Tue Mar  3 07:44:49 2015//Tnetbsd-7-0-RELEASE
+D

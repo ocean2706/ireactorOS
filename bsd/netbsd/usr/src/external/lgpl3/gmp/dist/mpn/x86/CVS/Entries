@@ -1,0 +1,40 @@
+/README/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorsmul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/bdiv_q_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/copyd.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/copyi.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/darwin.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/dive_1.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/divrem_1.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/gmp-mparam.h/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/lshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/rshift.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/sqr_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/t-zdisp.sh/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/t-zdisp2.pl/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/tabselect.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/udiv.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/umul.asm/1.1.1.1/Mon Jun 20 05:54:42 2011//Tnetbsd-7-0-RELEASE
+/x86-defs.m4/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+D/atom////
+D/bobcat////
+D/core2////
+D/coreinhm////
+D/coreisbr////
+D/fat////
+D/geode////
+D/i486////
+D/k10////
+D/k6////
+D/k7////
+D/k8////
+D/nano////
+D/p6////
+D/pentium////
+D/pentium4////

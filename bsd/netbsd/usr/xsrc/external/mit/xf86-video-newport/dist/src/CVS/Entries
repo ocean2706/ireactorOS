@@ -1,0 +1,11 @@
+/Makefile.am/1.1.1.1/Sat Feb 14 03:04:46 2009//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1/Sat Feb 14 03:04:46 2009//Tnetbsd-7-0-RELEASE
+/newport.h/1.3/Fri Dec 17 04:19:50 2010//Tnetbsd-7-0-RELEASE
+/newport_accel.c/1.1.1.1/Sat Feb 14 03:04:46 2009//Tnetbsd-7-0-RELEASE
+/newport_cmap.c/1.2/Tue Oct  6 20:28:14 2009//Tnetbsd-7-0-RELEASE
+/newport_cursor.c/1.1.1.1/Sat Feb 14 03:04:46 2009//Tnetbsd-7-0-RELEASE
+/newport_driver.c/1.10/Wed Jun  4 18:20:44 2014//Tnetbsd-7-0-RELEASE
+/newport_regs.c/1.2/Tue Oct  6 20:28:14 2009//Tnetbsd-7-0-RELEASE
+/newport_regs.h/1.2/Tue Oct  6 20:28:14 2009//Tnetbsd-7-0-RELEASE
+/newport_shadow.c/1.1.1.1/Sat Feb 14 03:04:46 2009//Tnetbsd-7-0-RELEASE
+D

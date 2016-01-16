@@ -1,0 +1,12 @@
+/cacert.pem/1.1.1.1/Sun Jul 19 23:05:21 2009//Tnetbsd-7-0-RELEASE
+/cakey.pem/1.1.1.1/Sun Jul 19 23:05:21 2009//Tnetbsd-7-0-RELEASE
+/encr.txt/1.1.1.1/Sun Jul 19 23:05:21 2009//Tnetbsd-7-0-RELEASE
+/sign.txt/1.1.1.1/Sun Jul 19 23:05:21 2009//Tnetbsd-7-0-RELEASE
+/signer.pem/1.1.1.1/Sun Jul 19 23:05:21 2009//Tnetbsd-7-0-RELEASE
+/signer2.pem/1.1.1.1/Sun Jul 19 23:05:22 2009//Tnetbsd-7-0-RELEASE
+/smdec.c/1.1.1.1.26.1/Wed Apr 29 04:53:50 2015//Tnetbsd-7-0-RELEASE
+/smenc.c/1.1.1.1.26.1/Wed Apr 29 04:53:50 2015//Tnetbsd-7-0-RELEASE
+/smsign.c/1.1.1.1.26.1/Wed Apr 29 04:53:50 2015//Tnetbsd-7-0-RELEASE
+/smsign2.c/1.1.1.1.26.1/Wed Apr 29 04:53:50 2015//Tnetbsd-7-0-RELEASE
+/smver.c/1.1.1.1.26.1/Wed Apr 29 04:53:50 2015//Tnetbsd-7-0-RELEASE
+D

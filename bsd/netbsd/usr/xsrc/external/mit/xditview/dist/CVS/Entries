@@ -1,0 +1,35 @@
+/COPYING/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/ChangeLog/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/Dvi.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/Dvi.h/1.1.1.1/Wed Jul 30 04:15:07 2008//Tnetbsd-7-0-RELEASE
+/DviChar.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/DviChar.h/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/DviP.h/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/INSTALL/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/Makefile.am/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/Menu.h/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/README/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/XFontName.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/XFontName.h/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/aclocal.m4/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/config.guess/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/config.h.in/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/config.sub/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/configure/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/configure.ac/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/depcomp/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/draw.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/font.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/install-sh/1.1.1.2/Fri May 31 06:13:16 2013//Tnetbsd-7-0-RELEASE
+/ldblarrow/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/lex.c/1.1.1.2/Fri May 31 06:13:16 2013//Tnetbsd-7-0-RELEASE
+/missing/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/page.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/parse.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+/rdblarrow/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/xdit.bm/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/xdit_mask.bm/1.1.1.1/Wed Jul 30 04:15:06 2008//Tnetbsd-7-0-RELEASE
+/xditview.c/1.1.1.2/Fri May 31 06:13:17 2013//Tnetbsd-7-0-RELEASE
+D/app-defaults////
+D/man////

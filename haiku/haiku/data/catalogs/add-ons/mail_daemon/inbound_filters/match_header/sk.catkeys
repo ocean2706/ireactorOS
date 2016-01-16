@@ -1,0 +1,13 @@
+1	slovak	x-vnd.Haiku-MatchHeader	3677427558
+<Choose action>	ConfigView		<Vyberte operáciu>
+has	ConfigView		má
+Move to	ConfigView		Presunúť do
+Then	ConfigView		potom
+this field is based on the action	ConfigView		toto pole je založené na operácii
+Delete message	ConfigView		Zmazať správu
+<Choose account>	ConfigView		<Vyberte účet>
+Set flags to	ConfigView		Nastaviť príznaky na
+Set as read	ConfigView		Nastaviť ako prečítané
+Reply with	ConfigView		Odpovedať pomocou
+If	ConfigView		ak
+header (e.g. Subject)	ConfigView		hlavička (napr. Predmet)

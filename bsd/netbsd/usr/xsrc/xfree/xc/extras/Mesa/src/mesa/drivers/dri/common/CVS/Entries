@@ -1,0 +1,21 @@
+/depthtmp.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/dri_util.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/dri_util.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/glcontextmodes.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/glcontextmodes.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/mm.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/mm.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/mmio.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/mmx.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/spantmp.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/stenciltmp.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/texmem.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/texmem.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/utils.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/utils.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/vblank.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/vblank.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/xmlconfig.c/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/xmlconfig.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+/xmlpool.h/1.1.1.1/Fri Mar 18 13:06:22 2005//Tnetbsd-7-0-RELEASE
+D

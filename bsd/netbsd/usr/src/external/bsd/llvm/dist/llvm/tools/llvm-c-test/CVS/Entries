@@ -1,0 +1,13 @@
+/CMakeLists.txt/1.1.1.3.6.1/Thu Jun  4 20:05:38 2015//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/calc.c/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/disassemble.c/1.1.1.1.6.1/Thu Jun  4 20:05:38 2015//Tnetbsd-7-0-RELEASE
+/helpers.c/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/include-all.c/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/llvm-c-test.h/1.1.1.1.6.1/Thu Jun  4 20:05:38 2015//Tnetbsd-7-0-RELEASE
+/main.c/1.1.1.1.6.1/Thu Jun  4 20:05:38 2015//Tnetbsd-7-0-RELEASE
+/metadata.c/1.1.1.1.2.2/Thu Jun  4 20:05:38 2015//Tnetbsd-7-0-RELEASE
+/module.c/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/object.c/1.1.1.2/Fri May 30 18:11:28 2014//Tnetbsd-7-0-RELEASE
+/targets.c/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+D

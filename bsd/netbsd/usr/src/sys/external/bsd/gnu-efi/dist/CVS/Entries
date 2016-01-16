@@ -1,0 +1,11 @@
+/ChangeLog/1.1.1.1/Tue Apr  1 16:16:05 2014//Tnetbsd-7-0-RELEASE
+/Make.defaults/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/Make.rules/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.1/Tue Apr  1 16:16:05 2014//Tnetbsd-7-0-RELEASE
+/README.efilib/1.1.1.1/Tue Apr  1 16:16:05 2014//Tnetbsd-7-0-RELEASE
+/README.elilo/1.1.1.1/Tue Apr  1 16:16:05 2014//Tnetbsd-7-0-RELEASE
+/README.gnuefi/1.1.1.1/Tue Apr  1 16:16:05 2014//Tnetbsd-7-0-RELEASE
+D/apps////
+D/gnuefi////
+D/inc////
+D/lib////

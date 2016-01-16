@@ -1,0 +1,7 @@
+/Makefile/1.1/Fri Jun 12 23:23:05 1998//Tnetbsd-7-0-RELEASE
+/files.umapfs/1.1/Tue Apr 16 23:14:08 2002//Tnetbsd-7-0-RELEASE
+/umap.h/1.16/Sat Jun 28 01:34:06 2008//Tnetbsd-7-0-RELEASE
+/umap_subr.c/1.28.38.1/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/umap_vfsops.c/1.93.2.2/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/umap_vnops.c/1.56.4.1/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+D

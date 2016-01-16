@@ -1,0 +1,16 @@
+/com_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/fdc_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/gscbus.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/gscbusvar.h/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/gsckbc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/harmony.c/1.2/Sun Aug 10 16:44:34 2014//Tnetbsd-7-0-RELEASE
+/harmonyreg.h/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/harmonyvar.h/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/hil_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/if_ie_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/if_iee_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/lpt_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/oosiop_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/osiop_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+/siop_gsc.c/1.1/Mon Feb 24 07:23:43 2014//Tnetbsd-7-0-RELEASE
+D

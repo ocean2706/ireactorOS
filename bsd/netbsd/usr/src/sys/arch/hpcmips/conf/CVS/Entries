@@ -1,0 +1,18 @@
+/GENERIC/1.224.2.2/Tue Nov 18 19:05:29 2014//Tnetbsd-7-0-RELEASE
+/INSTALL_TX3912/1.13/Fri Feb  6 18:50:27 2009//Tnetbsd-7-0-RELEASE
+/LCARD/1.15/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/LROUTER/1.53/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/MPC303/1.66/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/NULLCONF/1.22/Wed Dec  7 09:10:13 2005//Tnetbsd-7-0-RELEASE
+/RAMDISK/1.21/Tue Nov 23 11:13:59 2010//Tnetbsd-7-0-RELEASE
+/TX3912/1.85/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/TX3922/1.99/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/VR41XX/1.62/Sun Jul 20 10:06:11 2014//Tnetbsd-7-0-RELEASE
+/files.hpcmips/1.108/Sun Jul 20 10:22:54 2014//Tnetbsd-7-0-RELEASE
+/ioconf.incl.hpcmips/1.4/Thu Mar 23 15:56:02 2006//Tnetbsd-7-0-RELEASE
+/majors.hpcmips/1.31/Thu Jun 30 20:09:31 2011//Tnetbsd-7-0-RELEASE
+/std.hpcmips/1.20/Sun Feb 20 07:58:13 2011//Tnetbsd-7-0-RELEASE
+/std.hpcmips.tx39/1.3/Sun Dec 11 12:17:33 2005//Tnetbsd-7-0-RELEASE
+/std.hpcmips.vr41/1.11/Sun Dec 11 12:17:33 2005//Tnetbsd-7-0-RELEASE
+/std.lcard/1.8/Sun Feb 20 07:58:13 2011//Tnetbsd-7-0-RELEASE
+D

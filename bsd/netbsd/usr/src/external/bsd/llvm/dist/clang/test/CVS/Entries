@@ -1,0 +1,49 @@
+/.clang-format/1.1.1.1/Thu Nov 28 14:14:54 2013//Tnetbsd-7-0-RELEASE
+/CMakeLists.txt/1.1.1.6/Sun Aug 10 17:08:36 2014//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.4.2.1/Thu Jun  4 20:04:31 2015//Tnetbsd-7-0-RELEASE
+/TestRunner.sh/1.1.1.1/Thu Nov 28 14:14:54 2013//Tnetbsd-7-0-RELEASE
+/cxx-sections.data/1.1.1.1/Thu Nov 28 14:14:54 2013//Tnetbsd-7-0-RELEASE
+/lit.cfg/1.1.1.7.2.1/Thu Jun  4 20:04:31 2015//Tnetbsd-7-0-RELEASE
+/lit.site.cfg.in/1.1.1.5/Sun Aug 10 17:08:36 2014//Tnetbsd-7-0-RELEASE
+/make_test_dirs.pl/1.1.1.1/Thu Nov 28 14:14:54 2013//Tnetbsd-7-0-RELEASE
+D/ARCMT////
+D/ASTMerge////
+D/Analysis////
+D/CXX////
+D/CodeCompletion////
+D/CodeGen////
+D/CodeGenCUDA////
+D/CodeGenCXX////
+D/CodeGenObjC////
+D/CodeGenObjCXX////
+D/CodeGenOpenCL////
+D/Coverage////
+D/CoverageMapping////
+D/Driver////
+D/FixIt////
+D/Format////
+D/Frontend////
+D/Headers////
+D/Index////
+D/Integration////
+D/Layout////
+D/Lexer////
+D/Misc////
+D/Modules////
+D/OpenMP////
+D/PCH////
+D/Parser////
+D/Preprocessor////
+D/Profile////
+D/Rewriter////
+D/Sema////
+D/SemaCUDA////
+D/SemaCXX////
+D/SemaObjC////
+D/SemaObjCXX////
+D/SemaOpenCL////
+D/SemaTemplate////
+D/TableGen////
+D/Tooling////
+D/Unit////
+D/VFS////

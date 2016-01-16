@@ -1,0 +1,16 @@
+/if_le.c/1.7/Mon Sep 23 17:27:09 2013//Tnetbsd-7-0-RELEASE
+/lcd.c/1.7/Sat Nov 12 13:44:26 2011//Tnetbsd-7-0-RELEASE
+/lunafb.c/1.35.2.1/Sun Oct  5 20:12:49 2014//Tnetbsd-7-0-RELEASE
+/lunaws.c/1.30/Sun Jul 20 11:14:56 2014//Tnetbsd-7-0-RELEASE
+/omkbdmap.c/1.1/Sun Jul 20 11:14:56 2014//Tnetbsd-7-0-RELEASE
+/omkbdmap.h/1.1/Sun Jul 20 11:14:56 2014//Tnetbsd-7-0-RELEASE
+/omrasops.c/1.16.4.1/Sun Oct  5 20:12:49 2014//Tnetbsd-7-0-RELEASE
+/omrasopsvar.h/1.2.4.1/Sun Oct  5 20:12:49 2014//Tnetbsd-7-0-RELEASE
+/sio.c/1.13/Sun Feb  2 15:35:06 2014//Tnetbsd-7-0-RELEASE
+/sioreg.h/1.4/Wed Jul 27 14:17:54 2011//Tnetbsd-7-0-RELEASE
+/siotty.c/1.42/Fri Jul 25 08:10:33 2014//Tnetbsd-7-0-RELEASE
+/siovar.h/1.8/Sun Feb  2 15:35:06 2014//Tnetbsd-7-0-RELEASE
+/spc.c/1.10/Tue Jan 22 15:44:25 2013//Tnetbsd-7-0-RELEASE
+/timekeeper.c/1.14/Tue Mar 18 18:20:41 2014//Tnetbsd-7-0-RELEASE
+/timekeeper.h/1.4/Tue Mar 18 18:20:41 2014//Tnetbsd-7-0-RELEASE
+D

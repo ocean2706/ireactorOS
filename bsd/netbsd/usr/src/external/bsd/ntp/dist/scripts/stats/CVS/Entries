@@ -1,0 +1,20 @@
+/README/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/README.stats/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/README.timecodes/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/clock.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/dupe.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/ensemble.S/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/ensemble.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/etf.S/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/etf.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/itf.S/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/itf.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/loop.S/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/loop.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/loop_summary/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/peer.awk/1.1.1.1/Sun Dec 13 16:56:40 2009//Tnetbsd-7-0-RELEASE
+/psummary.awk/1.1.1.1/Sun Dec 13 16:56:41 2009//Tnetbsd-7-0-RELEASE
+/summary.sh/1.1.1.1/Sun Dec 13 16:56:41 2009//Tnetbsd-7-0-RELEASE
+/tdata.S/1.1.1.1/Sun Dec 13 16:56:41 2009//Tnetbsd-7-0-RELEASE
+/tdata.awk/1.1.1.1/Sun Dec 13 16:56:41 2009//Tnetbsd-7-0-RELEASE
+D

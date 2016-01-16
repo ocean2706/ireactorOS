@@ -1,0 +1,12 @@
+1	ukrainian	x-vnd.Haiku-NewMailNotification	583443025
+Keyboard LEDs	ConfigView		Світлодіоди клавіатури
+Log window	ConfigView		Вікно логів
+Central beep	ConfigView		Головний сигнал
+Beep	ConfigView		Сигнал
+Method:	ConfigView		Метод:
+Central alert	ConfigView		Головне попередження
+Alert	ConfigView		Попередження
+none	ConfigView		жодного
+New messages	filter		Нові повідомлення
+New mails notification	ConfigView		Нові оголошення пошти
+OK	filter		Гаразд

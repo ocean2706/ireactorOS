@@ -1,0 +1,26 @@
+1	spanish; castilian	x-vnd.haiku-screenshot	3326393685
+seconds	ScreenshotWindow		segundos
+Desktop	ScreenshotWindow		Escritorio
+Include window border	ScreenshotWindow		Incuir el borde de la ventana
+Screenshot	System name		Captura de pantallia
+Select	ScreenshotWindow		Seleccionar
+Capture active window	ScreenshotWindow		Capturar la ventana actual
+Cancel	ScreenshotWindow		Cancelar
+Name:	ScreenshotWindow		Nombre:
+Choose folder…	ScreenshotWindow		Elegir carpeta…
+Choose folder	ScreenshotWindow		Elegir carpeta
+Save	ScreenshotWindow		Guardar
+Overwrite	ScreenshotWindow		Sobrescribir
+Please select	ScreenshotWindow		Por favor elija
+Save as:	ScreenshotWindow		Guardar como:
+Copy to clipboard	ScreenshotWindow		Copiar al portapapeles
+Save in:	ScreenshotWindow		Guardar en:
+screenshot	Screenshot	Base filename of screenshot files	Captura
+New screenshot	ScreenshotWindow		Nueva captura
+Artwork folder	ScreenshotWindow		Carpeta de Artwork
+Home folder	ScreenshotWindow		Carpeta home
+Settings…	ScreenshotWindow		Ajustes...
+overwrite	ScreenshotWindow		Sobreescribir
+Delay:	ScreenshotWindow		Espera:
+Include mouse pointer	ScreenshotWindow		Incluir el puntero del ratón
+Translator Settings	ScreenshotWindow		Ajustes de traducción

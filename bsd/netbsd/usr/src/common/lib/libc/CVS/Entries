@@ -1,0 +1,14 @@
+/Makefile.inc/1.16/Sun Aug 10 23:25:49 2014//Tnetbsd-7-0-RELEASE
+D/arch////
+D/atomic////
+D/cdb////
+D/gen////
+D/gmon////
+D/hash////
+D/inet////
+D/md////
+D/net////
+D/quad////
+D/stdlib////
+D/string////
+D/sys////

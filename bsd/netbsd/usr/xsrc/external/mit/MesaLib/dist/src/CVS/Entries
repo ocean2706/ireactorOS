@@ -1,0 +1,15 @@
+/Makefile.am/1.1.1.1.2.2/Mon Jan  5 20:58:29 2015//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1.2.2/Mon Jan  5 20:58:29 2015//Tnetbsd-7-0-RELEASE
+/SConscript/1.1.1.1.2.1/Mon Jan  5 20:58:29 2015//Tnetbsd-7-0-RELEASE
+D/egl////
+D/gallium////
+D/gbm////
+D/getopt////
+D/glsl////
+D/glx////
+D/gtest////
+D/hgl////
+D/loader////
+D/mapi////
+D/mesa////
+D/util////

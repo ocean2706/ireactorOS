@@ -1,0 +1,9 @@
+/Makefile/1.7/Wed Mar  6 13:35:22 2013//Tnetbsd-7-0-RELEASE
+/README/1.1/Mon Jul 26 15:53:00 2010//Tnetbsd-7-0-RELEASE
+/exports/1.2/Fri Dec 31 18:11:27 2010//Tnetbsd-7-0-RELEASE
+/getmntinfo.c/1.1/Mon Jul 26 15:53:00 2010//Tnetbsd-7-0-RELEASE
+/mountd.c/1.8/Sat Oct 19 17:45:00 2013//Tnetbsd-7-0-RELEASE
+/nfsd.c/1.4/Sat Oct 19 17:45:00 2013//Tnetbsd-7-0-RELEASE
+/pathnames.h/1.1/Mon Jul 26 15:53:00 2010//Tnetbsd-7-0-RELEASE
+/rumpnfsd.c/1.8/Mon May 12 15:31:07 2014//Tnetbsd-7-0-RELEASE
+D/rpcbind////

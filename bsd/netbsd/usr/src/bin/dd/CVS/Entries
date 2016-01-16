@@ -1,0 +1,13 @@
+/Makefile/1.17.12.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/args.c/1.38.6.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/conv.c/1.17/Thu Aug  7 09:05:10 2003//Tnetbsd-7-0-RELEASE
+/conv_tab.c/1.9/Thu Aug  7 09:05:10 2003//Tnetbsd-7-0-RELEASE
+/dd.1/1.25.12.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/dd.c/1.49.12.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/dd.h/1.15.24.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/dd_hostops.c/1.1/Fri Feb  4 19:42:12 2011//Tnetbsd-7-0-RELEASE
+/dd_rumpops.c/1.1/Fri Feb  4 19:42:12 2011//Tnetbsd-7-0-RELEASE
+/extern.h/1.22.20.1/Thu Mar 26 11:08:43 2015//Tnetbsd-7-0-RELEASE
+/misc.c/1.23/Mon Nov  7 22:24:23 2011//Tnetbsd-7-0-RELEASE
+/position.c/1.18/Mon Nov 22 21:04:28 2010//Tnetbsd-7-0-RELEASE
+D

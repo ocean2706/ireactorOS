@@ -1,0 +1,13 @@
+/Makefile/1.7/Wed Feb  3 15:34:39 2010//Tnetbsd-7-0-RELEASE
+/input.c/1.11/Mon May 25 04:33:53 2009//Tnetbsd-7-0-RELEASE
+/input.h/1.5/Tue Jan 27 20:30:30 2004//Tnetbsd-7-0-RELEASE
+/pathnames.h/1.3/Thu Aug  7 09:37:48 2003//Tnetbsd-7-0-RELEASE
+/scores.c/1.22/Sat Mar 22 19:05:30 2014//Tnetbsd-7-0-RELEASE
+/scores.h/1.5/Mon May 25 08:33:57 2009//Tnetbsd-7-0-RELEASE
+/screen.c/1.29.2.1/Fri Jul 17 03:39:35 2015//Tnetbsd-7-0-RELEASE
+/screen.h/1.9/Wed Aug 12 08:51:21 2009//Tnetbsd-7-0-RELEASE
+/shapes.c/1.9/Wed Jun 11 16:47:39 2014//Tnetbsd-7-0-RELEASE
+/tetris.6/1.14.2.1/Wed Mar 18 08:14:17 2015//Tnetbsd-7-0-RELEASE
+/tetris.c/1.27.2.1/Wed Mar 18 08:14:17 2015//Tnetbsd-7-0-RELEASE
+/tetris.h/1.14/Sun Jul 13 16:23:55 2014//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,51 @@
+config SOC_INTEL_COMMON
+	bool
+	help
+	  common code for Intel SOCs
+
+if SOC_INTEL_COMMON
+
+config CACHE_MRC_SETTINGS
+	bool "Save cached MRC settings"
+	default n
+	help
+	  If CONFIG_USE_FMAP is enabled, it is assumed that a flashmap
+	  containing an RW_MRC_CACHE entry that specifies the location and size
+	  of the cache will be added to the image and present at runtime.
+
+if CACHE_MRC_SETTINGS
+
+config MRC_SETTINGS_CACHE_BASE
+	hex
+	depends on !USE_FMAP
+	default 0xfffe0000
+
+config MRC_SETTINGS_CACHE_SIZE
+	hex
+	depends on !USE_FMAP
+	default 0x10000
+
+config MRC_SETTINGS_PROTECT
+	bool "Enable protection on MRC settings"
+	depends on !USE_FMAP
+	default n
+
+endif # CACHE_MRC_SETTINGS
+
+config DISPLAY_MTRRS
+	bool "MTRRs: Display the MTRR settings"
+	default n
+
+config DISPLAY_SMM_MEMORY_MAP
+	bool "SMM: Display the SMM memory map"
+	default n
+
+config SOC_INTEL_COMMON_RESET
+	bool
+	default n
+
+config SOC_INTEL_COMMON_ACPI_WAKE_SOURCE
+	bool
+	default n
+
+endif # SOC_INTEL_COMMON

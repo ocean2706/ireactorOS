@@ -1,0 +1,31 @@
+/Makefile/1.2/Mon Mar 17 07:25:34 2014//Tnetbsd-7-0-RELEASE
+/xcb.mk/1.2.6.2/Wed Feb  4 06:46:33 2015//Tnetbsd-7-0-RELEASE
+D/bigreq////
+D/composite////
+D/damage////
+D/dpms////
+D/dri2////
+D/dri3////
+D/files////
+D/glx////
+D/libxcb////
+D/present////
+D/randr////
+D/record////
+D/render////
+D/res////
+D/screensaver////
+D/shape////
+D/shm////
+D/sync////
+D/xc_misc////
+D/xevie////
+D/xf86dri////
+D/xfixes////
+D/xinerama////
+D/xinput////
+D/xkb////
+D/xproto////
+D/xtest////
+D/xv////
+D/xvmc////

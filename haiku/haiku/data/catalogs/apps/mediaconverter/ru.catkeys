@@ -1,0 +1,69 @@
+1	russian	x-vnd.Haiku-MediaConverter	341686525
+Video using parameters form settings	MediaConverter		Видео использует параметры из настроек
+{0, plural, one{The file was not recognized as a supported media file:} other{# files were not recognized as supported media files:}}	MediaConverter		{0, plural, one{Файл не был распознан как поддерживаемый медиафайл:} few{# файла не были распознаны как поддерживаемые медиафайлы:} other{# файлов не было распознано как поддерживаемые медиафайлы:}}
+Video encoding:	MediaConverter		Кодирование видео:
+%u x %u, %.2ffps	MediaFileInfo	Width x Height, fps	%u x %u, %.2fкадр/с
+Error read audio frame %lld	MediaConverter		Ошибка чтения аудио кадра %lld
+No audio	Audio codecs list		Без аудио
+Error	MediaConverter		Ошибка
+{0, plural, one{# bit} other{# bits}}	MediaFileInfo		{0, plural, one{# бит} few{# бита} other{# битов}}
+Error loading a file	MediaConverter		Ошибка при загрузке файла
+Error read video frame %lld	MediaConverter		Ошибка чтения видеокадра %lld
+File Error	MediaConverter-FileInfo		Ошибка файла
+Open…	Menu		Открыть…
+Start [ms]: 	MediaConverter		Начало [мс]: 
+Output file '%filename' created	MediaConverter		Выходящий файл '%filename' создан
+Output format	MediaConverter		Формат вывода
+End   [ms]: 	MediaConverter		Конец [мс]: 
+MediaConverter	System name		Медиаконвертер
+No video	Video codecs list		Без видео
+Duration:	MediaConverter-FileInfo		Длительность:
+OK	MediaConverter		ОК
+%.1f kHz mono	MediaFileInfo		%.1f кГц моно
+Error converting '%filename'	MediaConverter		Ошибка конвертации '%filename'
+Low	MediaConverter		Низкое
+Conversion completed	MediaConverter		Конвертация завершена
+Audio:	MediaConverter-FileInfo		Аудио:
+OK	MediaConverter-FileInfo		ОК
+ seconds	MediaFileInfo		 секунд
+Source files	MediaConverter		Исходные файлы
+Error writing video frame %lld	MediaConverter		Ошибка записи видеокадра %lld
+{0, plural, one{# frame} other{# frames}}	MediaFileInfo		{0, plural, one{# кадр} few{# кадра} other{# кадров}}
+Error writing audio frame %lld	MediaConverter		Ошибка записи аудио кадра %lld
+Cancelling	MediaConverter		Отменяется
+{0, plural, one{# byte} other{# bytes}}	MediaFileInfo		{0, plural, one{# байт} few{# байта} other{# байтов}}
+Error loading files	MediaConverter		Ошибка при загрузке файлов
+Cancel	MediaConverter		Отмена
+None available	Video codecs		Не доступно
+Conversion cancelled	MediaConverter		Конвертация отменена
+No file selected	MediaConverter-FileInfo		Файл не выбран
+Select this folder	MediaConverter		Выбрать эту папку
+Continue	MediaConverter		Продолжить
+Encoder parameters	MediaConverter-EncoderWindow		Параметры кодирования
+Video:	MediaConverter-FileInfo		Видео:
+%d bit 	MediaFileInfo		%d бит 
+Error creating '%filename'	MediaConverter		Ошибка создания '%filename'
+Video quality not supported	MediaConverter		Качество видео не поддерживается
+Cancelling…	MediaConverter		Отменяется…
+File details	MediaConverter		Параметры файла
+Select	MediaConverter		Выбрать
+Writing video track: %ld%% complete	MediaConverter		Запись видео дорожки: %ld%% завершено
+Quit	Menu		Выход
+Preview	MediaConverter		Предпросмотр
+File format:	MediaConverter		Формат файла:
+None available	Audio codecs		Недоступно
+MediaConverter+:SaveDirectory	MediaConverter		Медиаконвертер: выбор папки сохранения
+Error launching: %strError%	MediaConverter		Ошибка запуска: %strError%
+High	MediaConverter		Высокое
+Drop media files onto this window	MediaConverter		Перенесите медиа файлы в это окно
+Audio encoding:	MediaConverter		Кодирование звука:
+Audio quality not supported	MediaConverter		Качество звука не поддерживается
+File	Menu		Файл
+%.1f kHz stereo	MediaFileInfo		%.1f кГц стерео
+Convert	MediaConverter		Конвертировать
+Writing audio track: %ld%% complete	MediaConverter		Запись аудио дорожки: %ld%% завершено
+Video quality: %3d%%	MediaConverter		Качество видео: %3d%%
+%.1f kHz %ld channel	MediaFileInfo		%.1f кГц %ld канал
+Output folder	MediaConverter		Сохранять в папку
+Audio quality: %3d%%	MediaConverter		Качество аудио: %3d%%
+An error has occurred reading the file info.\n\nError : 	MediaConverter-FileInfo		Произошла ошибка при чтении информации о файле.\n\nОшибка: 

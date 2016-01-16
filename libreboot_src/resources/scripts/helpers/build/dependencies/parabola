@@ -1,0 +1,101 @@
+#!/bin/bash
+
+#  helper script: installs build dependencies for Parabola
+
+# this script is based on the script for Trisquel 7
+#
+#	Copyright (C) 2014, 2015 Francis Rowe <info@gluglug.org.uk>
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+[ "x${DEBUG+set}" = 'xset' ] && set -v
+set -u -e
+
+if [[ $EUID -ne 0 ]]; then
+   echo "This script must be run as root" 
+   exit 1
+fi
+
+# Duplications are intentional. Please do not re-factor.
+#
+# This is so that they can moved to separate scripts.
+#
+
+pacman -S wget
+
+# For downloading source code
+# ------------------------------------------------------------
+
+pacman -S subversion git
+
+# For building source code:
+# ------------------------------------------------------------
+
+pacman -S base-devel libstdc++5
+
+pacman -S arm-none-eabi-gcc
+
+pacman -S pacman -S libpciaccess
+
+# For cross-compiling i686 target on x86_64 host.
+if [ $(uname -i) = "x86_64" ] || [ $(uname -m) = "x86_64" ]
+	then
+		pacman -S gcc-libs-multilib gcc-multilib lib32-fakeroot lib32-libltdl lib32-glibc lib32-libstdc++5 
+		pacman -S lib32-libpciaccess
+fi
+
+# Memtest86+ build dependencies
+# ------------------------------------------------------------
+
+# pacman -S base-devel
+
+# i945-pwm build dependencies
+# ------------------------------------------------------------
+
+# pacman -S base-devel
+
+# Coreboot build dependencies (also requires build-essential and git)
+# ------------------------------------------------------------
+
+pacman -S ncurses doxygen iasl gdb flex bison
+# pacman -S git base-devel
+
+# For cross-compiling i686 target on x86_64 host.
+if [ $(uname -i) = "x86_64" ] || [ $(uname -m) = "x86_64" ]
+	then
+		pacman -S lib32-ncurses
+fi
+
+# GRUB build dependencies (also requires build-essential, bison and flex)
+# ------------------------------------------------------------
+
+# pacman -S base-devel bison flex
+
+pacman -S autogen m4 autoconf help2man freetype2 automake fuse fuse-exfat xz gawk device-mapper libtool python
+pacman -S bdf-unifont # trying this, otherwise there was an error. I'll try AUR if this won't work.
+
+# BucTS build dependencies (external script)
+# ------------------------------------------------------------
+
+# pacman -S base-devel
+
+# Flashrom build dependencies (also requires build-essential and subversion)
+# ------------------------------------------------------------
+
+pacman -S pciutils zlib libftdi libftdi-compat 
+# pacman -S base-devel subversion
+
+# ------------------- DONE ----------------------
+

@@ -1,0 +1,19 @@
+/autohint.h/1.1.1.5/Fri Mar  5 14:26:23 2004//Tnetbsd-7-0-RELEASE
+/ftcalc.h/1.1.1.5/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftdebug.h/1.1.1.6/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftdriver.h/1.1.1.6/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftgloadr.h/1.1.1.2/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftmemory.h/1.1.1.5/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftobjs.h/1.1.1.6/Fri Mar 18 13:07:28 2005//Tnetbsd-7-0-RELEASE
+/ftrfork.h/1.1.1.1/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/ftserv.h/1.1.1.1/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/ftstream.h/1.1.1.6/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/fttrace.h/1.1.1.2/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/internal.h/1.1.1.6/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/pcftypes.h/1.1.1.4/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/psaux.h/1.1.1.6/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/pshints.h/1.1.1.4/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/sfnt.h/1.1.1.6/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/t1types.h/1.1.1.5/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+/tttypes.h/1.1.1.6/Fri Mar 18 13:07:29 2005//Tnetbsd-7-0-RELEASE
+D/services////

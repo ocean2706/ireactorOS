@@ -1,0 +1,36 @@
+1	slovak	x-vnd.Haiku-Notifications	2718138102
+Notifications	GeneralView		Oznamy
+seconds of inactivity	GeneralView		sekundách nečinnosti
+Revert	PrefletWin		Vrátiť
+Mini icon	DisplayView		Mini ikona
+Enable notifications	GeneralView		Zapnúť upozornenia
+Error	NotificationView		Chyba
+OK	GeneralView		OK
+Type	NotificationView		Typ
+Notifications cannot be stopped, because the server can't be reached.	GeneralView		Oznámenia nemožno zastaviť, pretože server nebolo možné kontaktovať.
+Cannot enable notifications because the server cannot be found.\nThis means your InfoPopper installation was not successfully completed.	GeneralView		Oznámenia nemožno zapnúť, pretože server nebol nájdený.\nTo znamená, že vaša inštalácia InfoPopper nebola úspešne dokončená.
+Important	NotificationView		Dôležité
+Cannot disable notifications because the server can't be reached.	GeneralView		Nie je možné vypnúť oznamy, pretože server nebolo možné kontaktovať.
+Progress	NotificationView		Priebeh
+Last Received	NotificationView		Posledný prijatý
+General	PrefletView		Všeobecné
+Display	PrefletView		Displej
+Search:	NotificationView		Hľadať:
+Allowed	NotificationView		Povolené
+Yes	NotificationView		Áno
+Large icon	DisplayView		Veľká ikona
+Icon size:	DisplayView		Veľkosť ikony:
+Hide notifications from screen after	GeneralView		Skryť oznamy z obrazovky po
+Notifications	System name		Oznamy
+Notifications	NotificationView		Oznamy
+No	NotificationView		Nie
+Title	NotificationView		Nadpis
+Information	NotificationView		Informácia
+Window width:	DisplayView		Šírka okna:
+Application	NotificationView		Aplikácia
+Enabled	NotificationView		Zapnuté
+Unknown	NotificationView		Neznáme
+Enable notifications at startup	GeneralView		Zapnúť oznamy pri štarte
+Notifications	PrefletView		Oznámenia
+The notifications server cannot be found, this means your InfoPopper installation was not successfully completed.	GeneralView		Server oznámení nemožno nájsť. To znamená, že vaša inštalácia InfoPopper nebola úspešne dokončená.
+Applications	NotificationView		Aplikácie

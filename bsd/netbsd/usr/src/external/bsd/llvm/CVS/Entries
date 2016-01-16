@@ -1,0 +1,9 @@
+/Makefile/1.8/Wed Jan 15 20:53:00 2014//Tnetbsd-7-0-RELEASE
+/Makefile.inc/1.74.2.1/Thu Jun  4 20:04:21 2015//Tnetbsd-7-0-RELEASE
+/link.mk/1.5/Sun Sep 29 12:11:59 2013//Tnetbsd-7-0-RELEASE
+/tablegen.mk/1.4/Tue Oct 11 13:53:57 2011//Tnetbsd-7-0-RELEASE
+D/bin////
+D/config////
+D/dist////
+D/include////
+D/lib////

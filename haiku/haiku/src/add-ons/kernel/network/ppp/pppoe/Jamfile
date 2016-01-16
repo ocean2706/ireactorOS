@@ -1,0 +1,30 @@
+SubDir HAIKU_TOP src add-ons kernel network ppp pppoe ;
+
+SetSubDirSupportedPlatformsBeOSCompatible ;
+SubDirC++Flags -fno-rtti ;
+
+if $(TARGET_PLATFORM) != haiku {
+	UseHeaders [ FDirName $(HAIKU_TOP) headers posix ] : true ;
+		# We need the public network headers also when not compiling for Haiku.
+		# Unfortunately we get more than we want, namely all POSIX headers.
+}
+
+UsePrivateKernelHeaders ;
+UsePrivateHeaders net ;
+UsePrivateHeaders [ FDirName kernel ] ;
+UsePrivateHeaders [ FDirName kernel util ] ;
+UseHeaders [ FDirName $(HAIKU_TOP) src add-ons kernel network ppp shared
+	libkernelppp headers ] : true ;
+
+KernelAddon pppoe :
+	pppoe.cpp
+	PPPoEDevice.cpp
+	DiscoveryPacket.cpp
+;
+
+LinkAgainst pppoe : libkernelppp.a ;
+
+# Installation
+HaikuInstall install-networking
+	: /boot/home/config/add-ons/kernel/haiku/ppp
+	: pppoe ;

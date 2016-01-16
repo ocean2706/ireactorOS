@@ -1,0 +1,24 @@
+/Android.gen.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Android.libmesa_dricore.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Android.libmesa_glsl_utils.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Android.libmesa_st_mesa.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Android.mesa_gen_matypes.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Android.mk/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Makefile.am/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/Makefile.sources/1.1.1.1.2.2/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/SConscript/1.1.1.1.2.1/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+/gl.pc.in/1.1.1.4.2.1/Mon Jan  5 20:59:11 2015//Tnetbsd-7-0-RELEASE
+D/drivers////
+D/main////
+D/math////
+D/program////
+D/sparc////
+D/state_tracker////
+D/swrast////
+D/swrast_setup////
+D/tnl////
+D/tnl_dd////
+D/vbo////
+D/x86////
+D/x86-64////

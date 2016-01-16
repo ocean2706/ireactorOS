@@ -1,0 +1,23 @@
+/adddi3.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/ashlsi3.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/ashlsi3.c/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/ashrsi3.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/ashrsi3.c/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/clzsi2.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/cmpsi2.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/divmod15.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/divmodhi4.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/divmodsi4.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/lib1funcs.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/longjmp.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/lshrsi3.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/lshrsi3.c/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/parityhi2.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/popcounthi2.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/setjmp.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/subdi3.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/t-picochip/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/ucmpsi2.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/udivmodhi4.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+/udivmodsi4.S/1.1.1.1/Sat Mar  1 08:41:47 2014//Tnetbsd-7-0-RELEASE
+D

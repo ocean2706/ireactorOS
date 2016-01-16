@@ -1,0 +1,17 @@
+/CaptureCmd/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/ClangDataFormat.py/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/CmpDriver/1.1.1.2/Fri May 30 18:14:50 2014//Tnetbsd-7-0-RELEASE
+/FindSpecRefs/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/FuzzTest/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/builtin-defines.c/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/clang-completion-mode.el/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/clang.natvis/1.1.1.2/Sun Aug 10 17:08:24 2014//Tnetbsd-7-0-RELEASE
+/find-unused-diagnostics.sh/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+/token-delta.py/1.1.1.1/Thu Nov 28 14:14:48 2013//Tnetbsd-7-0-RELEASE
+D/ABITest////
+D/CIndex////
+D/TableGen////
+D/TestUtils////
+D/VtableTest////
+D/analyzer////
+D/valgrind////

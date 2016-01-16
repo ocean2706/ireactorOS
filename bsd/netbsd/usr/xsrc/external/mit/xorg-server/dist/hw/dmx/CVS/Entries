@@ -1,0 +1,54 @@
+/Makefile.am/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:20 2013//Tnetbsd-7-0-RELEASE
+/dmx-config.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmx.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmx.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmx_glxvisuals.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmx_glxvisuals.h/1.1.1.2/Thu Jun 11 01:52:59 2009//Tnetbsd-7-0-RELEASE
+/dmxcb.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxcb.h/1.1.1.1/Thu Jul 31 19:50:21 2008//Tnetbsd-7-0-RELEASE
+/dmxclient.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxcmap.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxcmap.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxcursor.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxcursor.h/1.1.1.2/Thu Jun 11 01:52:59 2009//Tnetbsd-7-0-RELEASE
+/dmxdpms.c/1.1.1.2/Thu Jun 11 01:52:59 2009//Tnetbsd-7-0-RELEASE
+/dmxdpms.h/1.1.1.1/Thu Jul 31 19:50:21 2008//Tnetbsd-7-0-RELEASE
+/dmxextension.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxextension.h/1.1.1.2/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxfont.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxfont.h/1.1.1.1/Thu Jul 31 19:50:21 2008//Tnetbsd-7-0-RELEASE
+/dmxgc.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxgc.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxgcops.c/1.1.1.3/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxgcops.h/1.1.1.1/Thu Jul 31 19:50:21 2008//Tnetbsd-7-0-RELEASE
+/dmxinit.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxinit.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxinput.c/1.1.1.2/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxinput.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxlog.c/1.1.1.2/Thu Jun 11 01:52:59 2009//Tnetbsd-7-0-RELEASE
+/dmxlog.h/1.1.1.2/Thu Jun 11 01:52:59 2009//Tnetbsd-7-0-RELEASE
+/dmxpict.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxpict.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxpixmap.c/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxpixmap.h/1.1.1.3/Tue Nov 23 05:21:10 2010//Tnetbsd-7-0-RELEASE
+/dmxprop.c/1.1.1.2/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+/dmxprop.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxscrinit.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxscrinit.h/1.1.1.3/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+/dmxshadow.c/1.1.1.2/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+/dmxshadow.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxstat.c/1.1.1.3/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+/dmxstat.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxsync.c/1.1.1.2/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+/dmxsync.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxvisual.c/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxvisual.h/1.1.1.1/Thu Jul 31 19:50:22 2008//Tnetbsd-7-0-RELEASE
+/dmxwindow.c/1.1.1.4/Tue Aug  2 06:56:48 2011//Tnetbsd-7-0-RELEASE
+/dmxwindow.h/1.1.1.3/Tue Nov 23 05:21:11 2010//Tnetbsd-7-0-RELEASE
+D/config////
+D/doc////
+D/examples////
+D/glxProxy////
+D/input////
+D/man////

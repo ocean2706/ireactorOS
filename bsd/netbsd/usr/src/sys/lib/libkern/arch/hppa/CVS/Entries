@@ -1,0 +1,8 @@
+/Makefile.inc/1.12/Thu Mar 13 16:09:11 2014//Tnetbsd-7-0-RELEASE
+/bcopy.S/1.14/Mon Jan 31 12:10:58 2011//Tnetbsd-7-0-RELEASE
+/memcpy.S/1.1/Thu Jun  6 20:03:38 2002//Tnetbsd-7-0-RELEASE
+/memmove.S/1.1/Thu Jun  6 20:03:38 2002//Tnetbsd-7-0-RELEASE
+/milli.S/1.1/Thu Jun  6 20:03:39 2002//Tnetbsd-7-0-RELEASE
+/prefix.h/1.2/Thu Sep 12 15:36:17 2013//Tnetbsd-7-0-RELEASE
+/spcopy.S/1.1/Thu Jun  6 20:03:39 2002//Tnetbsd-7-0-RELEASE
+D

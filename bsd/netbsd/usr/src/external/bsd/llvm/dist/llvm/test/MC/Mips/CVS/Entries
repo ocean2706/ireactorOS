@@ -1,0 +1,133 @@
+/cfi.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/cpload-bad.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/cpload.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/cpsetup-bad.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/cpsetup.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/do_switch1.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/do_switch2.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/do_switch3.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/eh-frame.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf-N64.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/elf-bigendian.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/elf-gprel-32-64.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/elf-relsym.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/elf-tls.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/elf_basic.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/elf_eflags.s/1.1.1.6/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_abicalls.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_micromips.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_mips16.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_nan2008.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_nanlegacy.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_noreorder.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_pic0.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_eflags_pic2.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_reginfo.s/1.1.1.3/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/elf_st_other.s/1.1.1.2/Wed Jan 15 21:24:18 2014//Tnetbsd-7-0-RELEASE
+/expr1.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/higher-highest-addressing.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/hilo-addressing.s/1.1.1.2/Fri Feb 14 20:12:53 2014//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/llvm-mc-fixup-endianness.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/micromips-16-bit-instructions.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-alias.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/micromips-alu-instructions.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/micromips-bad-branches.s/1.1.1.1.6.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-branch-instructions.s/1.1.1.1.6.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-branch16.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-branch7.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-control-instructions.s/1.1.1.3.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-diagnostic-fixup.s/1.1.1.1/Sun Jan  5 16:17:12 2014//Tnetbsd-7-0-RELEASE
+/micromips-el-fixup-data.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/micromips-expansions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-expressions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-fpu-instructions.s/1.1.1.1.6.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-func-addr.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-invalid.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-jump-instructions.s/1.1.1.2.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-jump26.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-label-test-sections.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-label-test.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-loadstore-instructions.s/1.1.1.3.6.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/micromips-loadstore-unaligned.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-movcond-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-multiply-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-pc16-fixup.s/1.1.1.1/Sun Jan  5 16:17:14 2014//Tnetbsd-7-0-RELEASE
+/micromips-relocations.s/1.1.1.2/Sun Jan  5 16:17:14 2014//Tnetbsd-7-0-RELEASE
+/micromips-shift-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-tailr.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/micromips-trap-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips-abi-bad.s/1.1.1.1.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-alu-instructions.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips-bad-branches.s/1.1.1.1/Sun Jan  5 16:17:12 2014//Tnetbsd-7-0-RELEASE
+/mips-control-instructions.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips-coprocessor-encodings.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips-data-directives.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips-diagnostic-fixup.s/1.1.1.1/Sun Jan  5 16:17:12 2014//Tnetbsd-7-0-RELEASE
+/mips-dsp-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips-expansions-bad.s/1.1.1.1.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-expansions.s/1.1.1.2.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-fpu-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips-hwr-register-names.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-jump-delay-slots.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-jump-instructions.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips-memory-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips-noat.s/1.1.1.2.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-pc16-fixup.s/1.1.1.1/Sun Jan  5 16:17:14 2014//Tnetbsd-7-0-RELEASE
+/mips-pdr-bad.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-pdr.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips-reginfo-fp32.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips-reginfo-fp64.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips-register-names-invalid.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips-register-names-o32.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips-relocations.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64-alu-instructions.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips64-expansions.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips64-instructions.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64-register-names-n32-n64.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips64-register-names-o32.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips64eb-fixups.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips64extins.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64shift.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips_abi_flags_xx.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips_abi_flags_xx_set.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/mips_directives.s/1.1.1.4/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips_directives_bad.s/1.1.1.2.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/mips_gprel16.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/multi-64bit-func.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/nabi-regs.s/1.1.1.2/Tue Mar  4 20:54:41 2014//Tnetbsd-7-0-RELEASE
+/nacl-mask.s/1.1.1.3.2.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/nooddspreg-cmdarg.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/nooddspreg-error.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/nooddspreg.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/octeon-instructions.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/oddspreg.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/pr11877.s/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/r-mips-got-disp.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/set-arch.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-at-directive-explicit-at.s/1.1.1.1.4.1/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-at-directive.s/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/set-mips-directives-bad.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/set-mips-directives.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/set-mips0-directive.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-mips16-directive.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-nodsp.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-push-pop-directives-bad.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/set-push-pop-directives.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/sext_64_32.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/sym-expr.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/sym-offset.ll/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/unaligned-nops.s/1.1.1.1.2.2/Thu Jun  4 20:05:25 2015//Tnetbsd-7-0-RELEASE
+/xgot.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+D/mips1////
+D/mips2////
+D/mips3////
+D/mips32////
+D/mips32r2////
+D/mips32r6////
+D/mips4////
+D/mips5////
+D/mips64////
+D/mips64r2////
+D/mips64r6////
+D/msa////

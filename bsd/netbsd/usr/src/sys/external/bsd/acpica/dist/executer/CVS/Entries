@@ -1,0 +1,25 @@
+/exconfig.c/1.4/Fri Dec 27 18:50:56 2013//Tnetbsd-7-0-RELEASE
+/exconvrt.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/excreate.c/1.1.1.4/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exdebug.c/1.4/Fri Dec 27 18:50:56 2013//Tnetbsd-7-0-RELEASE
+/exdump.c/1.4/Fri Dec 27 18:50:56 2013//Tnetbsd-7-0-RELEASE
+/exfield.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exfldio.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exmisc.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exmutex.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exnames.c/1.1.1.3/Fri Dec 27 18:46:21 2013//Tnetbsd-7-0-RELEASE
+/exoparg1.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exoparg2.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exoparg3.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exoparg6.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exprep.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exregion.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exresnte.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exresolv.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exresop.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exstore.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exstoren.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exstorob.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exsystem.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+/exutils.c/1.1.1.3/Fri Dec 27 18:46:22 2013//Tnetbsd-7-0-RELEASE
+D

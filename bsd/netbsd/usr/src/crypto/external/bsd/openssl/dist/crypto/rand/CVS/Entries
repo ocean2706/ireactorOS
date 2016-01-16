@@ -1,0 +1,15 @@
+/Makefile/1.1.1.1.26.1/Sat Jul 11 17:33:52 2015//Tnetbsd-7-0-RELEASE
+/md_rand.c/1.8.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand.h/1.1.1.5.4.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_egd.c/1.2.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_err.c/1.1.1.3.4.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_lcl.h/1.1.1.2.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_lib.c/1.1.1.6.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_nw.c/1.1.1.2.22.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_os2.c/1.1.1.1.26.2/Sat Jul 11 17:33:52 2015//Tnetbsd-7-0-RELEASE
+/rand_unix.c/1.4.12.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_vms.c/1.1.1.2.22.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/rand_win.c/1.1.1.5.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/randfile.c/1.6.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/randtest.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+D

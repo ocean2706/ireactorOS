@@ -1,0 +1,18 @@
+/Makefile.am/1.1.1.2/Sun Nov  8 10:10:22 2009//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/XKBfileInt.h/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/cout.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/magic/1.1.1.1/Wed Jul 30 02:59:29 2008//Tnetbsd-7-0-RELEASE
+/maprules.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/srvmisc.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbatom.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbbells.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbconfig.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbdraw.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkberrs.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbmisc.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbout.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkbtext.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkmout.c/1.1.1.2/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+/xkmread.c/1.1.1.3/Fri May 31 01:09:10 2013//Tnetbsd-7-0-RELEASE
+D

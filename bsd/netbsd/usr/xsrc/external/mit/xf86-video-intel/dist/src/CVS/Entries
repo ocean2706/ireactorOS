@@ -1,0 +1,19 @@
+/Makefile.am/1.1.1.3.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.3.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/backlight.c/1.3.2.2/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/backlight.h/1.1.1.2.2.2/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/compat-api.h/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/fd.c/1.1.1.1.2.2/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/fd.h/1.1.1.1.2.2/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/i915_pciids.h/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_device.c/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_driver.h/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_list.h/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_module.c/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_options.c/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+/intel_options.h/1.1.1.1.2.1/Wed Jan 21 11:23:12 2015//Tnetbsd-7-0-RELEASE
+D/legacy////
+D/render_program////
+D/scripts////
+D/sna////
+D/uxa////

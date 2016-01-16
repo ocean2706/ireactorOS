@@ -1,0 +1,56 @@
+1	italian	x-vnd.Haiku-MediaConverter	3718479311
+Video using parameters form settings	MediaConverter		Il video utilizza le impostazioni dei parametri
+Video encoding:	MediaConverter		Codifica video:
+No audio	Audio codecs list		Nessun audio
+Error	MediaConverter		Errore
+Error loading a file	MediaConverter		Errore caricando un file
+File Error	MediaConverter-FileInfo		File errore
+Open…	Menu		Apri...
+Start [ms]: 	MediaConverter		Avvio [ms]:
+Output file '%filename' created	MediaConverter		File di output '%filename' creato
+Output format	MediaConverter		Formato di output
+End   [ms]: 	MediaConverter		Fine [ms]:
+MediaConverter	System name		MediaConverter
+No video	Video codecs list		Nessun video
+Duration:	MediaConverter-FileInfo		Durata:
+OK	MediaConverter		OK
+Error converting '%filename'	MediaConverter		Errore convertendo '%filename'
+Low	MediaConverter		Basso
+Conversion completed	MediaConverter		Conversione completa
+Audio:	MediaConverter-FileInfo		Audio:
+OK	MediaConverter-FileInfo		OK
+Source files	MediaConverter		File sorgenti
+Cancelling	MediaConverter		Cancellando
+Error loading files	MediaConverter		Errore nel caricamento dei file
+Cancel	MediaConverter		Cancella
+None available	Video codecs		Nessuno disponibile
+Conversion cancelled	MediaConverter		Conversione annullata
+No file selected	MediaConverter-FileInfo		Nessun file selezionato
+Select this folder	MediaConverter		Seleziona questa cartella
+Continue	MediaConverter		Continua
+Encoder parameters	MediaConverter-EncoderWindow		Encoder parametri
+Video:	MediaConverter-FileInfo		Video
+%d bit 	MediaFileInfo		%d bit
+Error creating '%filename'	MediaConverter		Errore creando '%filename'
+Video quality not supported	MediaConverter		Qualità video non supportata
+Cancelling…	MediaConverter		Annullamento di...
+File details	MediaConverter		File dettagli
+Select	MediaConverter		Seleziona
+Writing video track: %ld%% complete	MediaConverter		Scrittura traccia video: %ld%% completato
+Quit	Menu		Esci
+Preview	MediaConverter		Anteprima
+File format:	MediaConverter		Formato file:
+None available	Audio codecs		Nessuno disponibile
+MediaConverter+:SaveDirectory	MediaConverter		MediaConverter+:SaveDirectory
+Error launching: %strError%	MediaConverter		Errore di lancio: %strError%
+High	MediaConverter		Alto
+Drop media files onto this window	MediaConverter		Trascina il media file su questa finestra
+Audio encoding:	MediaConverter		Codifica Audio:
+Audio quality not supported	MediaConverter		Qualità audio non supportata
+File	Menu		File
+Convert	MediaConverter		Conversione
+Writing audio track: %ld%% complete	MediaConverter		Scrittura traccia video: %ld%% completato
+Video quality: %3d%%	MediaConverter		Qualità video: %3d%%
+Output folder	MediaConverter		Cartella di output
+Audio quality: %3d%%	MediaConverter		Qualità audio: %3d%% 
+An error has occurred reading the file info.\n\nError : 	MediaConverter-FileInfo		Si è verificato un errore.\n\nErrore :  leggendo le informazioni del file

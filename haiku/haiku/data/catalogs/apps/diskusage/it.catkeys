@@ -1,0 +1,17 @@
+1	italian	x-vnd.Haiku-DiskUsage	1435170580
+Scanning %refName%	Scanner		Scansione %refName%
+Size	Info Window		Dimensione
+Rescan	Pie View		Riscansiona
+Kind	Info Window		Tipo
+file unavailable	Pie View		file indisponibile
+no supporting apps	Pie View		nessuna applicazione di supporto
+Path	Info Window		Percorso
+Scan	Status View		Scansione
+Rescan	Status View		Riscansiona
+file unavailable	Status View		file indisponibile
+DiskUsage	System name		Utilizzo disco
+Created	Info Window		Creato
+Modified	Info Window		Modificato
+Open	Pie View		Apri
+%a, %d %b %Y, %r	Info Window		%a, %d %b %Y, %r
+Free on %refName%	Scanner		Liberi su %refName%

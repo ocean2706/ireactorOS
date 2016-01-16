@@ -1,0 +1,12 @@
+/Makefile.am/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.2/Fri Nov 29 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/doscan.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/fscanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/fscanffuns.c/1.1.1.2/Fri Nov 29 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/scanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/sscanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/sscanffuns.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/vfscanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/vscanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+/vsscanf.c/1.1.1.1/Mon Jun 20 05:54:55 2011//Tnetbsd-7-0-RELEASE
+D

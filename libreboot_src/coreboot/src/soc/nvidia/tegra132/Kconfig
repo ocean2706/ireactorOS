@@ -1,0 +1,112 @@
+config SOC_NVIDIA_TEGRA132
+	bool
+	default n
+	select ARCH_BOOTBLOCK_ARMV4
+	select ARCH_VERSTAGE_ARMV4
+	select ARCH_ROMSTAGE_ARMV4
+	select ARCH_RAMSTAGE_ARMV8_64
+	select BOOTBLOCK_CONSOLE
+	select GIC
+	select HAVE_MONOTONIC_TIMER
+	select HAVE_HARD_RESET
+	select HAVE_UART_SPECIAL
+	select HAVE_UART_MEMORY_MAPPED
+	select EARLY_CONSOLE
+	select ARM_BOOTBLOCK_CUSTOM
+	select DYNAMIC_CBMEM
+	select SMP
+	select ARCH_USE_SECURE_MONITOR
+
+if SOC_NVIDIA_TEGRA132
+
+config BOOTBLOCK_CPU_INIT
+	string
+	default "soc/nvidia/tegra132/bootblock.c"
+	help
+	  CPU/SoC-specific bootblock code. This is useful if the
+	  bootblock must load microcode or copy data from ROM before
+	  searching for the bootblock.
+
+config BOOTBLOCK_ROM_OFFSET
+	hex
+	default 0x0
+
+config MAX_CPUS
+	int
+	default 2
+
+config CBFS_HEADER_ROM_OFFSET
+	hex "offset of master CBFS header in ROM"
+	default 0x40000
+
+config CBFS_ROM_OFFSET
+	hex "offset of CBFS data in ROM"
+	default 0x40080
+
+config BOOTBLOCK_BASE
+	hex
+	default 0x40020000
+
+config ROMSTAGE_BASE
+	hex
+	default 0x40025000
+
+config SYS_SDRAM_BASE
+	hex
+	default 0x80000000
+
+config RAMSTAGE_BASE
+	hex
+	default 0x80200000
+
+config BOOTBLOCK_STACK_TOP
+	hex
+	default 0x40020000
+
+config BOOTBLOCK_STACK_BOTTOM
+	hex
+	default 0x4001c000
+
+config ROMSTAGE_STACK_TOP
+	hex
+	default 0x40020000
+
+config ROMSTAGE_STACK_BOTTOM
+	hex
+	default 0x4001c000
+
+config CBFS_CACHE_ADDRESS
+	hex "memory address to put CBFS cache data"
+	default 0x40006000
+
+config CBFS_CACHE_SIZE
+	hex "size of CBFS cache data"
+	default 0x00016000
+
+config CONSOLE_PRERAM_BUFFER_BASE
+	hex "memory address of the CBMEM console buffer"
+	default 0x40004020
+
+config MTS_DIRECTORY
+	string "Directory where MTS microcode files are located"
+	default "3rdparty/cpu/nvidia/tegra132/current/prod"
+	help
+	  Path to directory where MTS microcode files are located.
+
+config TRUSTZONE_CARVEOUT_SIZE_MB
+	hex "Size of Trust Zone region"
+	default 0x4
+	help
+	  Size of Trust Zone area in MiB to reserve in memory map.
+
+config BOOTROM_SDRAM_INIT
+	bool "SoC BootROM does SDRAM init with full BCT"
+	default n
+	help
+	  Use during Ryu LPDDR3 bringup
+
+# Default to 700MHz. This value is based on nv bootloader setting.
+config PLLX_KHZ
+	int
+	default 700000
+endif

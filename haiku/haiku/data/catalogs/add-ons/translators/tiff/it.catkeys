@@ -1,0 +1,14 @@
+1	italian	x-vnd.Haiku-TIFFTranslator	4029790542
+LZW	TIFFView		LZW
+identify_tiff_header: couldn't set directory\n	TIFFTranslator		identify_tiff_header: impossibile impostare la directory\n
+TIFF image	TIFFTranslator		Immagine TIFF
+TIFF Library:	TIFFView		Libreria TIFF
+TIFF image translator	TIFFView		Translator immagine TIFF
+None	TIFFView		Nessuno
+TIFF images	TIFFTranslator		Immagini TIFF
+TIFFTranslator Settings	TIFFTranslator		Impostazioni TIFFTranslator
+TIFF image translator	TIFFTranslator		Translator immagine TIFF
+RLE (Packbits)	TIFFView		RLE (Packbits)
+TIFF Settings	TIFFMain		Impostazioni TIFF
+identify_tiff_header: invalid document index\n	TIFFTranslator		identify_tiff_header: indice documento non valido\n
+ZIP (Deflate)	TIFFView		ZIP (Deflate)

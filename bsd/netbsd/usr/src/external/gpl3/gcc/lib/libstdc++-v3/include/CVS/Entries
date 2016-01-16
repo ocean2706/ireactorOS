@@ -1,0 +1,14 @@
+/Makefile/1.9/Sun Jun  1 19:51:01 2014//Tnetbsd-7-0-RELEASE
+/Makefile.inc/1.4/Sun Jun  1 19:51:01 2014//Tnetbsd-7-0-RELEASE
+/Makefile.includes/1.1/Sat Mar  1 10:00:47 2014//Tnetbsd-7-0-RELEASE
+D/backward////
+D/bits////
+D/debug////
+D/decimal////
+D/ext////
+D/parallel////
+D/pb////
+D/profile////
+D/tr1////
+D/tr1_impl////
+D/tr2////

@@ -1,0 +1,11 @@
+/bad-header-guard-defined.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/bad-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/different-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/good-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/multiple.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/no-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/out-of-order-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/success.h/1.1.1.1/Fri May 30 18:14:48 2014//Tnetbsd-7-0-RELEASE
+/tokens-between-ifndef-and-define.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+/unlikely-to-be-header-guard.h/1.1.1.1/Thu Nov 28 14:14:56 2013//Tnetbsd-7-0-RELEASE
+D

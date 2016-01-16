@@ -1,0 +1,12 @@
+/acgetline.c/1.1.1.1/Fri Dec 27 18:46:02 2013//Tnetbsd-7-0-RELEASE
+/adfile.c/1.1.1.3/Fri Dec 27 18:46:02 2013//Tnetbsd-7-0-RELEASE
+/adisasm.c/1.1.1.3/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/adwalk.c/1.1.1.3/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/ahpredef.c/1.1.1.1/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/dmextern.c/1.1.1.3/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/dmrestag.c/1.1.1.3/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/dmtable.c/1.1.1.4/Fri Dec 27 18:46:03 2013//Tnetbsd-7-0-RELEASE
+/dmtbdump.c/1.1.1.4/Fri Dec 27 18:46:04 2013//Tnetbsd-7-0-RELEASE
+/dmtbinfo.c/1.5/Fri Dec 27 18:50:56 2013//Tnetbsd-7-0-RELEASE
+/getopt.c/1.1.1.3/Fri Dec 27 18:46:04 2013//Tnetbsd-7-0-RELEASE
+D

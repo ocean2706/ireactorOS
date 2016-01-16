@@ -1,0 +1,14 @@
+/autoconf.c/1.17/Thu Apr  3 15:53:05 2014//Tnetbsd-7-0-RELEASE
+/consinit.c/1.16/Sat Oct 13 17:58:55 2012//Tnetbsd-7-0-RELEASE
+/cpu.c/1.98.4.1/Tue Aug  4 18:12:28 2015//Tnetbsd-7-0-RELEASE
+/hypervisor_machdep.c/1.27.12.1/Mon Sep 22 11:15:57 2014//Tnetbsd-7-0-RELEASE
+/intr.c/1.29/Sat Aug 13 16:22:15 2011//Tnetbsd-7-0-RELEASE
+/mainbus.c/1.18/Mon Mar  3 22:09:32 2014//Tnetbsd-7-0-RELEASE
+/x86_xpmap.c/1.53/Tue May  6 04:26:24 2014//Tnetbsd-7-0-RELEASE
+/xen_bus_dma.c/1.26/Sat Jun 30 23:36:20 2012//Tnetbsd-7-0-RELEASE
+/xen_intr.c/1.9/Fri Jan 16 20:16:47 2009//Tnetbsd-7-0-RELEASE
+/xen_ipi.c/1.18.2.1/Sun Feb  8 22:18:30 2015//Tnetbsd-7-0-RELEASE
+/xen_pmap.c/1.22/Sun Jun 24 18:31:53 2012//Tnetbsd-7-0-RELEASE
+/xen_shm_machdep.c/1.10/Fri Sep  2 22:25:08 2011//Tnetbsd-7-0-RELEASE
+/xenfunc.c/1.13/Sun Nov  6 11:40:47 2011//Tnetbsd-7-0-RELEASE
+D

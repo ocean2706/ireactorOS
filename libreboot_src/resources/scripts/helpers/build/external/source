@@ -1,0 +1,73 @@
+#!/bin/bash
+
+#  helper: prepare a small source archive for those utils
+#  that don't easily cross-compile. Then the tarball can be extracted
+#  on those machines with the target architecture, and compiled.
+#
+#	Copyright (C) 2014, 2015 Francis Rowe <info@gluglug.org.uk>
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+[ "x${DEBUG+set}" = 'xset' ] && set -v
+set -u -e
+
+printf "Creating source archive for flashrom and bucts\n"
+
+# delete the old data
+rm -rf tobuild
+rm -f tobuild.tar.xz
+
+# this is where they will go
+mkdir tobuild
+
+# flashrom
+cp -r flashrom/ tobuild/
+cd tobuild/flashrom/
+rm -f flashrom_lenovobios_sst flashrom_lenovobios_macronix
+make clean
+cd ../../
+mkdir tobuild/resources/
+mkdir tobuild/resources/flashrom/
+cp -r resources/flashrom/patch/ tobuild/resources/flashrom/
+
+# bucts
+cp -r bucts tobuild/
+cd tobuild/bucts/
+make clean
+cd ../../
+mkdir tobuild/resources/bucts/
+cp -r resources/bucts/patch/ tobuild/resources/bucts/
+
+# the build script will be needed
+cp build tobuild/
+# needed build scripts (helpers)
+mkdir tobuild/resources/scripts/
+mkdir tobuild/resources/scripts/helpers/
+mkdir tobuild/resources/scripts/helpers/build/
+mkdir tobuild/resources/scripts/helpers/build/module/
+mkdir tobuild/resources/scripts/helpers/build/clean/
+cp resources/scripts/helpers/build/clean/bucts tobuild/resources/scripts/helpers/build/clean/
+cp resources/scripts/helpers/build/clean/flashrom tobuild/resources/scripts/helpers/build/clean/
+cp resources/scripts/helpers/build/module/bucts tobuild/resources/scripts/helpers/build/module/
+cp resources/scripts/helpers/build/module/flashrom tobuild/resources/scripts/helpers/build/module/
+cp resources/scripts/misc/powertop.trisquel7 tobuild/
+
+# that is all. now tar it up
+tar -c tobuild | xz -9e >tobuild.tar.xz
+
+# and delete the directory
+rm -rf tobuild/
+
+printf "\n\n"

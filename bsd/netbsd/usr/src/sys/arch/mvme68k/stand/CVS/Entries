@@ -1,0 +1,12 @@
+/Makefile/1.6/Mon Jan 19 23:09:16 2009//Tnetbsd-7-0-RELEASE
+/Makefile.booters/1.25/Sun Jan 12 15:26:30 2014//Tnetbsd-7-0-RELEASE
+D/bootsd////
+D/bootst////
+D/bootxx////
+D/installboot////
+D/libbug////
+D/libsa////
+D/netboot////
+D/prtvid////
+D/sboot////
+D/wrtvid////

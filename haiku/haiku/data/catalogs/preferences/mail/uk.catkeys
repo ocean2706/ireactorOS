@@ -1,0 +1,50 @@
+1	ukrainian	x-vnd.Haiku-Mail	688530788
+Settings	Config Window		Налаштування
+Never	Config Window	show status window	Ніколи
+While sending and receiving	Config Window		При відправці і отриманні
+Incoming	Config Window		Вхідні
+Server name:	E-Mail		Ім'я серверу:
+OK	Config Window		Гаразд
+E-mail address:	E-Mail		Адреса ел.пошти:
+Account name:	E-Mail		Назва облікового запису:
+Account name:	Config Views		Ім'я аккаунта:
+Create new account	AutoConfigWindow		Створити обліковий запис
+OK	Config Views		Гаразд
+The filter could not be moved. Deleting filter.	Config Views		Фільтр неможливо перемістити. Видалення фільтра.
+Revert	Config Window		Повернути
+Login name:	E-Mail		Реєстраційне ім'я:
+Incoming	E-Mail		Вхідні
+Password:	E-Mail		Гасло:
+Accounts	Config Window		Облікові записи
+Finish	AutoConfigWindow		Фініш
+Remove	Config Window		Видалити
+Server Name:	E-Mail		Ім'я серверу:
+While sending	Config Window		Поки відправляється
+Enter a valid e-mail address.	AutoConfigWindow		Введіть чинну адресу ел. пошти.
+Add	Config Window		Додати
+Account settings	AutoConfigWindow		Параметри облікового запису
+E-mail	System name		Ел.пошта
+\nThe general settings couldn't be reverted.\n\nError retrieving general settings:\n%s\n	Config Window		\nОсновні налаштування неможливо повернути.\n\nПомилка при відновленні налаштувань:\n%s\n
+Real name:	Config Views		Справжнє ім'я:
+\t\t· Outgoing	Config Window		\t\t· Вихідні
+Choose Protocol	E-Mail		Вибрати протокол
+Return address:	Config Views		Зворотня адреса:
+Edit mailbox menu…	Config Window		Редагувати почтове меню…
+Outgoing	E-Mail		Вихідні
+\t\t· E-mail filters	Config Window		\t\t· Поштові фільтри
+Remove	Config Views		Видалити
+\t\t· Incoming	Config Window		\t\t· Вхідні
+Next	AutoConfigWindow		Наступне
+Check every	Config Window		Перевіряти кожні
+Back	AutoConfigWindow		Назад
+Incoming mail filters	Config Views		Вхідний поштовий фільтр
+Account settings	Config Views		Параметри облікового запису
+minutes	Config Window		хвилин
+Error retrieving general settings: %s\n	Config Window		Помилка при відновленні основних настройок: %s\n
+Real name:	E-Mail		Справжнє ім'я:
+Apply	Config Window		Прийняти
+OK	AutoConfigWindow		Гаразд
+Add filter	Config Views		Додати фільтр
+Outgoing	Config Window		Вихідні
+Outgoing mail filters	Config Views		Фільтри вихідної пошти
+Error	Config Window		Помилка

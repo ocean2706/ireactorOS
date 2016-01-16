@@ -1,0 +1,20 @@
+/acos.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/acosh.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/asin.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/asinh.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/atan.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/atanh.pass.cpp/1.1.1.2/Thu May 15 23:53:13 2014//Tnetbsd-7-0-RELEASE
+/cos.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/cosh.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/exp.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/log.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/log10.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/pow_complex_complex.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/pow_complex_scalar.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/pow_scalar_complex.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/sin.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/sinh.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/sqrt.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/tan.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+/tanh.pass.cpp/1.1.1.1/Fri May 17 23:02:34 2013//Tnetbsd-7-0-RELEASE
+D

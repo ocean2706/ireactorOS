@@ -1,0 +1,16 @@
+/__clone.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/__sigaction14_sigtramp.c/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/__sigtramp2.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/__syscall.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/__vfork14.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/brk.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/cerror.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/exect.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/fork.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/getcontext.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/pipe.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/ptrace.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/sbrk.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/shmat.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+/syscall.S/1.1/Sun Aug 10 05:47:37 2014//Tnetbsd-7-0-RELEASE
+D

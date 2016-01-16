@@ -1,0 +1,22 @@
+/BNF.ipf/1.1.1.1/Fri Mar 23 21:20:22 2012//Tnetbsd-7-0-RELEASE
+/BNF.ipnat/1.1.1.1/Fri Mar 23 21:20:22 2012//Tnetbsd-7-0-RELEASE
+/ipf.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipf_y.y/1.3/Sun Jun 29 08:53:08 2014//Tnetbsd-7-0-RELEASE
+/ipfcomp.c/1.4/Sun Oct 20 03:09:11 2013//Tnetbsd-7-0-RELEASE
+/ipfs.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipfstat.c/1.5/Mon Jun 16 12:37:58 2014//Tnetbsd-7-0-RELEASE
+/ipfsyncd.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipftest.c/1.3/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipmon.c/1.7/Sat Oct 27 20:07:12 2012//Tnetbsd-7-0-RELEASE
+/ipmon_y.y/1.2/Sun Oct 21 22:57:48 2012//Tnetbsd-7-0-RELEASE
+/ipnat.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipnat_y.y/1.4/Sun Jun 29 08:58:01 2014//Tnetbsd-7-0-RELEASE
+/ippool.c/1.4/Sun Oct 20 03:09:11 2013//Tnetbsd-7-0-RELEASE
+/ippool_y.y/1.1.1.2/Sun Jul 22 13:44:58 2012//Tnetbsd-7-0-RELEASE
+/ipscan_y.y/1.1.1.2/Sun Jul 22 13:44:58 2012//Tnetbsd-7-0-RELEASE
+/ipsyncm.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/ipsyncs.c/1.2/Sun Jul 22 14:27:51 2012//Tnetbsd-7-0-RELEASE
+/lex_var.h/1.1.1.2/Sun Jul 22 13:44:58 2012//Tnetbsd-7-0-RELEASE
+/lexer.c/1.1.1.2.12.1/Mon Dec 29 17:27:29 2014//Tnetbsd-7-0-RELEASE
+/lexer.h/1.1.1.2/Sun Jul 22 13:44:59 2012//Tnetbsd-7-0-RELEASE
+D

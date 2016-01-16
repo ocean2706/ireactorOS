@@ -1,0 +1,16 @@
+/Makefile/1.39/Fri Aug 10 12:20:11 2012//Tnetbsd-7-0-RELEASE
+/dump.8/1.65/Wed Aug 29 18:46:13 2012//Tnetbsd-7-0-RELEASE
+/dump.h/1.51/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/dumprmt.c/1.37/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/ffs_inode.c/1.22/Sun Jun 23 02:06:04 2013//Tnetbsd-7-0-RELEASE
+/itime.c/1.20/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/main.c/1.71/Sun Sep  8 13:26:05 2013//Tnetbsd-7-0-RELEASE
+/optr.c/1.42/Sun Sep  8 13:26:05 2013//Tnetbsd-7-0-RELEASE
+/pathnames.h/1.11/Thu Aug  7 10:04:14 2003//Tnetbsd-7-0-RELEASE
+/rcache.c/1.24/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/snapshot.c/1.6/Thu Feb 24 09:38:57 2011//Tnetbsd-7-0-RELEASE
+/snapshot.h/1.4/Mon Apr 28 20:23:08 2008//Tnetbsd-7-0-RELEASE
+/tape.c/1.53/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/traverse.c/1.50/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+/unctime.c/1.17/Sat Jun 15 01:27:19 2013//Tnetbsd-7-0-RELEASE
+D

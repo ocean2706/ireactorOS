@@ -1,0 +1,15 @@
+/CHANGES/1.1.1.1/Mon May 21 20:01:57 2001//Tnetbsd-7-0-RELEASE
+/COPYRIGHT/1.1.1.2/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.2/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+/README/1.1.1.1/Tue Jul 10 20:17:09 2001//Tnetbsd-7-0-RELEASE
+/configure/1.1.1.3/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+/configure.in/1.1.1.3/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+/install-sh/1.1.1.1/Wed Feb 10 22:56:49 1999//Tnetbsd-7-0-RELEASE
+/ldap.n/1.1.1.1/Mon May 21 20:01:57 2001//Tnetbsd-7-0-RELEASE
+/ldaperr.tcl/1.1.1.1/Thu May  2 06:14:01 2002//Tnetbsd-7-0-RELEASE
+/man.macros/1.1.1.1/Wed Feb 10 22:56:49 1999//Tnetbsd-7-0-RELEASE
+/neoXldap.c/1.1.1.3/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+/pkgIndex.tcl.in/1.1.1.1/Tue Jul 27 05:39:42 1999//Tnetbsd-7-0-RELEASE
+/tclAppInit.c/1.1.1.2/Mon Mar  8 02:14:14 2010//Tnetbsd-7-0-RELEASE
+/tkAppInit.c/1.1.1.3/Wed May 28 09:58:27 2014//Tnetbsd-7-0-RELEASE
+D

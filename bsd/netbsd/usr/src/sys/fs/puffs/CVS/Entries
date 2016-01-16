@@ -1,0 +1,12 @@
+/Makefile/1.1/Sun Oct 22 22:43:23 2006//Tnetbsd-7-0-RELEASE
+/TODO/1.1/Mon May 18 15:47:28 2009//Tnetbsd-7-0-RELEASE
+/files.puffs/1.5/Tue Jul  6 16:13:57 2010//Tnetbsd-7-0-RELEASE
+/puffs_compat.c/1.2.40.1/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/puffs_msgif.c/1.94.4.2/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/puffs_msgif.h/1.80.14.3/Fri Feb 27 19:39:56 2015//Tnetbsd-7-0-RELEASE
+/puffs_node.c/1.31.4.5/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/puffs_subr.c/1.66.42.1/Sat Jan 17 12:10:54 2015//Tnetbsd-7-0-RELEASE
+/puffs_sys.h/1.84.4.3/Fri Feb 27 19:39:56 2015//Tnetbsd-7-0-RELEASE
+/puffs_vfsops.c/1.113.2.4/Sun Mar 15 22:43:02 2015//Tnetbsd-7-0-RELEASE
+/puffs_vnops.c/1.182.2.13/Fri Feb 27 19:39:56 2015//Tnetbsd-7-0-RELEASE
+D

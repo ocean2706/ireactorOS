@@ -1,0 +1,24 @@
+/Makefile/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/boxdraw.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/console.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/crc.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/data.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/debug.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/dpath.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/error.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/event.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/guid.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/hand.c/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/hw.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/init.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/lib.h/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/lock.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/misc.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/print.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/smbios.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+/sread.c/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/str.c/1.1.1.1/Tue Apr  1 16:16:06 2014//Tnetbsd-7-0-RELEASE
+D/ia32////
+D/ia64////
+D/runtime////
+D/x86_64////

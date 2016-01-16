@@ -1,0 +1,22 @@
+/Imakefile/1.1.1.3/Sat Jun  9 15:16:18 2001//Tnetbsd-7-0-RELEASE
+/Xv.man/1.1.1.3/Sat Jun  9 15:16:18 2001//Tnetbsd-7-0-RELEASE
+/XvFreeAdaptorInfo.man/1.1.1.3/Sat Jun  9 15:16:18 2001//Tnetbsd-7-0-RELEASE
+/XvFreeEncodingInfo.man/1.1.1.3/Sat Jun  9 15:16:18 2001//Tnetbsd-7-0-RELEASE
+/XvGetPortAttribute.man/1.1.1.4/Fri Mar  5 14:24:57 2004//Tnetbsd-7-0-RELEASE
+/XvGetStill.man/1.1.1.4/Fri Mar  5 14:24:57 2004//Tnetbsd-7-0-RELEASE
+/XvGetVideo.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvGrabPort.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvPortNotify.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvPutStill.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvPutVideo.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvQueryAdaptors.man/1.1.1.4/Sat Jan 19 15:21:51 2002//Tnetbsd-7-0-RELEASE
+/XvQueryBestSize.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvQueryEncodings.man/1.1.1.3/Sat Jun  9 15:16:19 2001//Tnetbsd-7-0-RELEASE
+/XvQueryExtension.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvSelectPortNotify.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvSelectVideoNotify.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvSetPortAttribute.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvStopVideo.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvUngrabPort.man/1.1.1.4/Sat Jan 19 15:21:52 2002//Tnetbsd-7-0-RELEASE
+/XvVideoNotify.man/1.1.1.4/Fri Mar  5 14:24:57 2004//Tnetbsd-7-0-RELEASE
+D

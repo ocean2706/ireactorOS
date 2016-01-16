@@ -1,0 +1,10 @@
+/Makefile-postinstall.in/1.1.1.1/Fri Feb 28 17:40:16 2014//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.2/Tue Jul  8 04:50:07 2014//Tnetbsd-7-0-RELEASE
+/nsprobe.c/1.1.1.2.2.1/Fri Jul 17 04:31:35 2015//Tnetbsd-7-0-RELEASE
+/resolve.c/1.1.1.2/Tue Jul  8 04:50:07 2014//Tnetbsd-7-0-RELEASE
+/rootkey.sh/1.1.1.1/Fri Feb 28 17:40:16 2014//Tnetbsd-7-0-RELEASE
+/sample-async.c/1.1.1.2/Tue Jul  8 04:50:07 2014//Tnetbsd-7-0-RELEASE
+/sample-gai.c/1.1.1.2/Tue Jul  8 04:50:07 2014//Tnetbsd-7-0-RELEASE
+/sample-request.c/1.1.1.2.2.1/Fri Jul 17 04:31:35 2015//Tnetbsd-7-0-RELEASE
+/sample-update.c/1.1.1.2.2.1/Fri Jul 17 04:31:35 2015//Tnetbsd-7-0-RELEASE
+D/win32////

@@ -1,0 +1,16 @@
+1	ukrainian	x-vnd.Be-POST	825141276
+Fetching mail for %name	Notifier		Отримання пошти для %name
+Check for mails only	DeskbarView		Перевірити тільки пошту
+Send pending mails	DeskbarView		Відправити чергову пошту 
+New Messages	MailDaemon		Нові повідомлення
+<no accounts>	DeskbarView		<облікові записи відсутні>
+Mail status	MailDaemon		Стан пошти
+Shutdown mail services	DeskbarView		Закрити поштові сервіси
+Sending mail for %name	Notifier		Відправка пошти для %name
+Create new message…	DeskbarView		Створити нове повідомлення…
+No new messages	MailDaemon		Немає нових повідомлень
+Check for mail now	DeskbarView		Перевірити пошту зараз
+No new messages	DeskbarView		Немає нових повідомлень
+Mail daemon status log	MailDaemon		Лог стану почтового демона
+Settings…	DeskbarView		Налаштування…
+Mail status	Notifier		Стан пошти

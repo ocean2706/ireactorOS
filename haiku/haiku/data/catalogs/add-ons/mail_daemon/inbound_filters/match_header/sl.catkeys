@@ -1,0 +1,10 @@
+1	slovenian	x-vnd.Haiku-MatchHeader	538909502
+has	ConfigView		ima
+Move to	ConfigView		Premakni v
+Then	ConfigView		potem
+Delete message	ConfigView		Izbriši sporočilo
+Set flags to	ConfigView		Nastavi zastavice na
+Set as read	ConfigView		Označi kot prebrano
+Reply with	ConfigView		Odgovori z
+If	ConfigView		Če
+header (e.g. Subject)	ConfigView		glava (npr. Zadeva)

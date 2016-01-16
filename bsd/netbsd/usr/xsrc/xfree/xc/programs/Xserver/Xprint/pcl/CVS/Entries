@@ -1,0 +1,25 @@
+/Imakefile/1.1.1.5/Fri Feb 28 13:19:57 2003//Tnetbsd-7-0-RELEASE
+/Pcl.h/1.1.1.5/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclArc.c/1.1.1.3/Sat Jun  9 15:01:44 2001//Tnetbsd-7-0-RELEASE
+/PclArea.c/1.1.1.4/Sat Jan 19 15:04:07 2002//Tnetbsd-7-0-RELEASE
+/PclAttVal.c/1.1.1.2/Sat Jun  9 15:01:45 2001//Tnetbsd-7-0-RELEASE
+/PclAttr.c/1.1.1.2/Sat Jun  9 15:01:45 2001//Tnetbsd-7-0-RELEASE
+/PclColor.c/1.1.1.5/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclCursor.c/1.1.1.3/Sat Jun  9 15:01:45 2001//Tnetbsd-7-0-RELEASE
+/PclDef.h/1.1.1.2/Sat Jun  9 15:01:45 2001//Tnetbsd-7-0-RELEASE
+/PclFonts.c/1.1.1.3/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclGC.c/1.1.1.4/Sat Jan 19 15:04:07 2002//Tnetbsd-7-0-RELEASE
+/PclInit.c/1.1.1.5/Fri Feb 28 13:19:57 2003//Tnetbsd-7-0-RELEASE
+/PclLine.c/1.1.1.3/Sat Jun  9 15:01:46 2001//Tnetbsd-7-0-RELEASE
+/PclMisc.c/1.1.1.5/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclPixel.c/1.1.1.5/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclPixmap.c/1.1.1.3/Sat Jun  9 15:01:46 2001//Tnetbsd-7-0-RELEASE
+/PclPolygon.c/1.1.1.3/Sat Jun  9 15:01:46 2001//Tnetbsd-7-0-RELEASE
+/PclPrint.c/1.1.1.5/Fri Mar  5 14:28:06 2004//Tnetbsd-7-0-RELEASE
+/PclSFonts.c/1.3/Fri Mar  5 16:33:01 2004//Tnetbsd-7-0-RELEASE
+/PclSFonts.h/1.1.1.2/Sat Jun  9 15:01:47 2001//Tnetbsd-7-0-RELEASE
+/PclSpans.c/1.1.1.3/Sat Jun  9 15:01:47 2001//Tnetbsd-7-0-RELEASE
+/PclText.c/1.1.1.5/Fri Mar  5 14:28:07 2004//Tnetbsd-7-0-RELEASE
+/PclWindow.c/1.1.1.5/Fri Mar  5 14:28:07 2004//Tnetbsd-7-0-RELEASE
+/Pclmap.h/1.1.1.4/Sat Jan 19 15:04:10 2002//Tnetbsd-7-0-RELEASE
+D

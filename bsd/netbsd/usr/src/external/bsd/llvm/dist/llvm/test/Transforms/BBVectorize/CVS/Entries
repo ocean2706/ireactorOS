@@ -1,0 +1,19 @@
+/cycle.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/func-alias.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/ld1.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:36 2014//Tnetbsd-7-0-RELEASE
+/loop1.ll/1.1.1.1.6.1/Thu Jun  4 20:05:28 2015//Tnetbsd-7-0-RELEASE
+/mem-op-depth.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/metadata.ll/1.1.1.1.6.1/Thu Jun  4 20:05:28 2015//Tnetbsd-7-0-RELEASE
+/no-ldstr-conn.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/req-depth.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/search-limit.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple-int.ll/1.1.1.2/Fri May 30 18:11:26 2014//Tnetbsd-7-0-RELEASE
+/simple-ldstr-ptrs.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple-ldstr.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple-sel.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple-tst.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+/simple3.ll/1.1.1.1/Thu Nov 28 14:18:06 2013//Tnetbsd-7-0-RELEASE
+D/X86////
+D/xcore////

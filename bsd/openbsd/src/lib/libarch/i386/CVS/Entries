@@ -1,0 +1,18 @@
+/Makefile/1.7/Wed Jul 16 20:02:17 2014//
+/i386_get_fsbase.2/1.4/Thu Sep 10 17:55:21 2015//
+/i386_get_fsbase.c/1.2/Wed Dec  5 23:19:58 2012//
+/i386_get_gsbase.2/1.4/Thu Sep 10 17:55:21 2015//
+/i386_get_gsbase.c/1.2/Wed Dec  5 23:19:58 2012//
+/i386_get_ioperm.2/1.16/Thu Sep 10 17:55:21 2015//
+/i386_get_ioperm.c/1.7/Sat Nov 15 02:23:28 2014//
+/i386_get_ldt.2/1.18/Thu Sep 10 17:55:21 2015//
+/i386_get_ldt.c/1.4/Sat Nov 15 02:23:28 2014//
+/i386_iopl.2/1.18/Thu Sep 10 17:55:21 2015//
+/i386_iopl.c/1.7/Sat Nov 15 02:23:28 2014//
+/i386_set_fsbase.c/1.2/Wed Dec  5 23:19:58 2012//
+/i386_set_gsbase.c/1.2/Wed Dec  5 23:19:58 2012//
+/i386_set_ioperm.c/1.7/Sat Nov 15 02:23:28 2014//
+/i386_set_ldt.c/1.4/Sat Nov 15 02:23:28 2014//
+/i386_vm86.2/1.13/Thu Sep 10 17:55:21 2015//
+/i386_vm86.c/1.6/Sat Nov 15 02:23:28 2014//
+D

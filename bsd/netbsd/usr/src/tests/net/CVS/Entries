@@ -1,0 +1,16 @@
+/Makefile/1.17/Mon Jun 30 21:30:51 2014//Tnetbsd-7-0-RELEASE
+/Makefile.inc/1.1/Wed Nov  3 16:10:24 2010//Tnetbsd-7-0-RELEASE
+D/bpf////
+D/bpfilter////
+D/bpfjit////
+D/carp////
+D/config////
+D/fdpass////
+D/icmp////
+D/if////
+D/if_loop////
+D/mpls////
+D/net////
+D/npf////
+D/route////
+D/sys////

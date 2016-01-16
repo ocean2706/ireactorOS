@@ -1,0 +1,18 @@
+/avx-512.txt/1.1.1.2.2.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/fp-stack.txt/1.1.1.1/Sun Jan  5 16:17:15 2014//Tnetbsd-7-0-RELEASE
+/hex-immediates.txt/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/intel-syntax-32.txt/1.1.1.1.6.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/intel-syntax.txt/1.1.1.1.6.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/invalid-VEX-vvvv.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/marked-up.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/missing-sib.txt/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/moffs.txt/1.1.1.2.2.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/padlock.txt/1.1.1.1/Tue Mar  4 20:54:46 2014//Tnetbsd-7-0-RELEASE
+/prefixes.txt/1.1.1.2.2.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/simple-tests.txt/1.1.1.2.6.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/truncated-input.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/x86-16.txt/1.1.1.1/Fri Feb 14 20:12:54 2014//Tnetbsd-7-0-RELEASE
+/x86-32.txt/1.1.1.4.2.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+/x86-64.txt/1.1.1.2.6.1/Thu Jun  4 20:05:24 2015//Tnetbsd-7-0-RELEASE
+D

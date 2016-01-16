@@ -1,0 +1,22 @@
+/EXT_shader_integer_mix.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_agp_offset.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_configless_context.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_copy_sub_buffer.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_drm_image.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_multithread_makecurrent.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_pack_invert.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_pixmap_colormap.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_query_renderer.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_release_buffers.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_set_3dfx_mode.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_shader_debug.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_swap_control.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_swap_frame_usage.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_texture_array.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_texture_signed_rgba.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_window_pos.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/MESA_ycbcr_texture.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/WL_bind_wayland_display.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/WL_create_wayland_buffer_from_image.spec/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+/enums.txt/1.1.1.1.2.2/Mon Jan  5 20:58:26 2015//Tnetbsd-7-0-RELEASE
+D/OLD////

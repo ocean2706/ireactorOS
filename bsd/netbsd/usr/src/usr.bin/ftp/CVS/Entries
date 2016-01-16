@@ -1,0 +1,19 @@
+/Makefile/1.36/Fri Dec 21 18:07:36 2012//Tnetbsd-7-0-RELEASE
+/cmds.c/1.135/Sat Dec 22 16:57:09 2012//Tnetbsd-7-0-RELEASE
+/cmdtab.c/1.52/Sat Dec 22 16:57:09 2012//Tnetbsd-7-0-RELEASE
+/complete.c/1.46/Sun Apr 12 10:18:52 2009//Tnetbsd-7-0-RELEASE
+/domacro.c/1.22/Sun Apr 12 10:18:52 2009//Tnetbsd-7-0-RELEASE
+/extern.h/1.80/Wed Jul  4 06:09:37 2012//Tnetbsd-7-0-RELEASE
+/fetch.c/1.205.4.1/Sun Oct 26 16:47:12 2014//Tnetbsd-7-0-RELEASE
+/ftp.1/1.134/Sat Dec 22 16:57:10 2012//Tnetbsd-7-0-RELEASE
+/ftp.c/1.164/Wed Jul  4 06:09:37 2012//Tnetbsd-7-0-RELEASE
+/ftp_var.h/1.82.8.1/Tue Apr 14 05:10:38 2015//Tnetbsd-7-0-RELEASE
+/main.c/1.122/Sat Dec 22 16:57:10 2012//Tnetbsd-7-0-RELEASE
+/progressbar.c/1.22/Wed Jun 27 22:07:36 2012//Tnetbsd-7-0-RELEASE
+/progressbar.h/1.8/Sun Apr 12 10:18:52 2009//Tnetbsd-7-0-RELEASE
+/ruserpass.c/1.33/Tue Apr 17 05:52:04 2007//Tnetbsd-7-0-RELEASE
+/ssl.c/1.2/Mon Dec 24 22:12:28 2012//Tnetbsd-7-0-RELEASE
+/ssl.h/1.2/Tue Jan  7 02:07:08 2014//Tnetbsd-7-0-RELEASE
+/util.c/1.158/Tue Feb 19 23:29:15 2013//Tnetbsd-7-0-RELEASE
+/version.h/1.84.6.1/Fri Oct 31 08:30:06 2014//Tnetbsd-7-0-RELEASE
+D

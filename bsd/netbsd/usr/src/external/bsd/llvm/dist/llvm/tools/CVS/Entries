@@ -1,0 +1,42 @@
+/CMakeLists.txt/1.1.1.4.2.1/Thu Jun  4 20:05:37 2015//Tnetbsd-7-0-RELEASE
+/LLVMBuild.txt/1.1.1.3.2.1/Thu Jun  4 20:05:37 2015//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.3.2.1/Thu Jun  4 20:05:37 2015//Tnetbsd-7-0-RELEASE
+D/bugpoint////
+D/bugpoint-passes////
+D/dsymutil////
+D/gold////
+D/llc////
+D/lli////
+D/llvm-ar////
+D/llvm-as////
+D/llvm-bcanalyzer////
+D/llvm-c-test////
+D/llvm-config////
+D/llvm-cov////
+D/llvm-diff////
+D/llvm-dis////
+D/llvm-dwarfdump////
+D/llvm-extract////
+D/llvm-go////
+D/llvm-jitlistener////
+D/llvm-link////
+D/llvm-lto////
+D/llvm-mc////
+D/llvm-mcmarkup////
+D/llvm-nm////
+D/llvm-objdump////
+D/llvm-profdata////
+D/llvm-readobj////
+D/llvm-rtdyld////
+D/llvm-shlib////
+D/llvm-size////
+D/llvm-stress////
+D/llvm-symbolizer////
+D/llvm-vtabledump////
+D/lto////
+D/macho-dump////
+D/msbuild////
+D/obj2yaml////
+D/opt////
+D/verify-uselistorder////
+D/yaml2obj////

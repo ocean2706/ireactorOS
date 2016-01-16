@@ -1,0 +1,2 @@
+cbmem.o: cbmem.c ../../src/include/boot/coreboot_tables.h \
+ ../../src/include/cbmem.h ../../src/include/timestamp.h

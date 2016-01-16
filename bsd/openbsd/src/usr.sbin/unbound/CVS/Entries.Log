@@ -1,0 +1,15 @@
+A D/daemon////
+A D/dns64////
+A D/dnstap////
+A D/doc////
+A D/iterator////
+A D/ldns////
+A D/libunbound////
+A D/pythonmod////
+A D/services////
+A D/sldns////
+A D/smallapp////
+A D/util////
+A D/validator////
+R D/pythonmod////
+R D/ldns////

@@ -1,0 +1,19 @@
+SubDir HAIKU_TOP src tests kits shared ;
+
+SetSubDirSupportedPlatformsBeOSCompatible ;
+AddSubDirSupportedPlatforms libbe_test ;
+
+UsePrivateHeaders shared ;
+
+UnitTestLib libsharedtest.so :
+	SharedTestAddon.cpp
+
+	CalendarViewTest.cpp
+	DriverSettingsMessageAdapterTest.cpp
+	GeolocationTest.cpp
+	NaturalCompareTest.cpp
+
+	: be libshared.a bnetapi [ TargetLibstdc++ ] [ TargetLibsupc++ ]
+;
+
+SubInclude HAIKU_TOP src tests kits shared shake_filter ;

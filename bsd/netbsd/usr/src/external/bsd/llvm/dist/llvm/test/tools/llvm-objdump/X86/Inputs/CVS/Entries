@@ -1,0 +1,20 @@
+/ObjC.exe.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/ObjC.obj.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibLoadKinds.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibRoutines.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibSubClient.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibSubFramework.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibSubLibrary.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/dylibSubUmbrella.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/exeThread.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/hello.exe.macho-i386/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/hello.exe.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:35 2015//Tnetbsd-7-0-RELEASE
+/hello.obj.macho-i386/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/hello.obj.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/hello_cpp.exe.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/linkerOption.macho-x86_64/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/macho-universal-archive.x86_64.i386/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/macho-universal.x86_64.i386/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/out-of-section-sym.elf-i386/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/trivial.obj.elf-i386/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+D

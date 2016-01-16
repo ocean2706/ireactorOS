@@ -1,0 +1,16 @@
+/Makefile/1.13/Sun Aug 11 08:03:10 2013//Tnetbsd-7-0-RELEASE
+/rpc_clntout.c/1.15/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_cout.c/1.33/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_hout.c/1.22/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_main.c/1.39/Sun Dec 15 09:18:31 2013//Tnetbsd-7-0-RELEASE
+/rpc_parse.c/1.18/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_parse.h/1.5/Sun Aug 11 08:03:10 2013//Tnetbsd-7-0-RELEASE
+/rpc_sample.c/1.13/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_scan.c/1.13/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_scan.h/1.9/Sun Aug 11 08:03:10 2013//Tnetbsd-7-0-RELEASE
+/rpc_svcout.c/1.26/Sun Dec 15 06:07:39 2013//Tnetbsd-7-0-RELEASE
+/rpc_tblout.c/1.14/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_util.c/1.13/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpc_util.h/1.8/Sun Dec 15 00:40:17 2013//Tnetbsd-7-0-RELEASE
+/rpcgen.1/1.24/Sun Dec 15 09:18:14 2013//Tnetbsd-7-0-RELEASE
+D

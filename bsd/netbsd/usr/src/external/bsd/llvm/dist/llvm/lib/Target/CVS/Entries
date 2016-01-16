@@ -1,0 +1,24 @@
+/CMakeLists.txt/1.1.1.3.6.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/LLVMBuild.txt/1.1.1.2/Fri May 30 18:11:11 2014//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.1/Thu Nov 28 14:18:18 2013//Tnetbsd-7-0-RELEASE
+/README.txt/1.1.1.1.6.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/Target.cpp/1.1.1.4.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/TargetIntrinsicInfo.cpp/1.1.1.1/Thu Nov 28 14:18:18 2013//Tnetbsd-7-0-RELEASE
+/TargetLibraryInfo.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/TargetLoweringObjectFile.cpp/1.1.1.7.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/TargetMachine.cpp/1.1.1.6.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/TargetMachineC.cpp/1.1.1.6.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+/TargetSubtargetInfo.cpp/1.1.1.4.2.1/Thu Jun  4 20:05:00 2015//Tnetbsd-7-0-RELEASE
+D/AArch64////
+D/ARM////
+D/CppBackend////
+D/Hexagon////
+D/MSP430////
+D/Mips////
+D/NVPTX////
+D/PowerPC////
+D/R600////
+D/Sparc////
+D/SystemZ////
+D/X86////
+D/XCore////

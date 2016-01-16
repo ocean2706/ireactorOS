@@ -1,0 +1,19 @@
+/Copyright/1.1.1.1/Fri May 11 22:51:29 2001//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/RATIONALE/1.1.1.1/Mon Apr 29 18:24:29 2002//Tnetbsd-7-0-RELEASE
+/config.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/context.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/info.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/ldapmap.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/map.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/params.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/parse.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/rewrite-int.h/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/rewrite-map.h/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/rewrite.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/rule.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/session.c/1.2/Wed May 28 10:14:13 2014//Tnetbsd-7-0-RELEASE
+/subst.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/var.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+/xmap.c/1.1.1.4/Wed May 28 09:58:45 2014//Tnetbsd-7-0-RELEASE
+D

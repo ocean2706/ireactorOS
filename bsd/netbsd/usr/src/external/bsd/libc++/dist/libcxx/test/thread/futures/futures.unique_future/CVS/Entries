@@ -1,0 +1,12 @@
+/copy_assign.fail.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/copy_ctor.fail.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/default.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/dtor.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/get.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/move_assign.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/move_ctor.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/share.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/wait.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/wait_for.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+/wait_until.pass.cpp/1.1.1.1/Fri May 17 23:02:31 2013//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,42 @@
+1	italian	x-vnd.Haiku-libbe	3337473349
+gamma	AboutWindow		gamma
+beta	AboutWindow		beta
+%3.2f GiB	StringForSize		%3.2f GiB
+Written by:	AboutWindow		Scritto da:
+About %app%	AboutMenuItem		Informazioni su %app%
+Cut	TextView		Taglia
+Version	AboutWindow		Versione
+Cannot create the replicant for \"%description\".\n%error	ZombieReplicantView		Impossibile creare il replicante per \"%description\".\n%error
+Copy	TextView		Copia
+%3.2f KiB	StringForSize		%3.2f KiB
+alpha	AboutWindow		alfa
+Error	PrintJob		Errore
+All Rights Reserved.	AboutWindow		Tutti i diritti riservati.
+{0, plural, one{# byte} other{# bytes}}	StringForSize		{0, plural, one{# byte} other{# byte}}
+About %app%	AboutWindow		Informazioni su %app%
+No pages to print!	PrintJob		Nessuna pagina da stampare
+OK	Dragger		OK
+OK	PrintJob		OK
+Green:	ColorControl		Verde:
+Version history:	AboutWindow		Cronologia delle versioni:
+Remove replicant	Dragger		Rimuovi il replicante
+Select all	TextView		Seleziona tutto
+OK	AboutWindow		OK
+OK	ZombieReplicantView		OK
+Print Server is not responding.	PrintJob		Il Server di stampa non risponde.
+Paste	TextView		Incolla
+Special Thanks:	AboutWindow		Ringraziamenti speciali:
+%.2f TiB	StringForSize		%.2f TiB
+Cannot locate the application for the replicant. No application signature supplied.\n%error	ZombieReplicantView		Impossibile individuare l'applicazione da cui generare il replicante. Non è stata fornita alcuna firma per l'applicazione. \n%error
+Redo	TextView		Ripeti
+<empty>	Menu		<vuoto>
+Warning	Dragger		Attenzione
+Undo	TextView		Annulla
+Red:	ColorControl		Rosso:
+%3.2f MiB	StringForSize		%3.2f MiB
+About %app…	Dragger		Informazioni su %app…
+development	AboutWindow		sviluppo
+Error	ZombieReplicantView		Errore
+Blue:	ColorControl		Blu:
+gold master	AboutWindow		"gold master"
+Can't delete this replicant from its original application. Life goes on.	Dragger		Impossibile separare questo replicante dalla sua applicazione.

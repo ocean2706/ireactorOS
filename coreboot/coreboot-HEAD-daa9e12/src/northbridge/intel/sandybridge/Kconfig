@@ -1,0 +1,105 @@
+##
+## This file is part of the coreboot project.
+##
+## Copyright (C) 2010 Google Inc.
+##
+## This program is free software; you can redistribute it and/or modify
+## it under the terms of the GNU General Public License as published by
+## the Free Software Foundation; version 2 of the License.
+##
+## This program is distributed in the hope that it will be useful,
+## but WITHOUT ANY WARRANTY; without even the implied warranty of
+## MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+## GNU General Public License for more details.
+##
+
+config NORTHBRIDGE_INTEL_SANDYBRIDGE_MRC
+	bool
+	select MMCONF_SUPPORT
+	select MMCONF_SUPPORT_DEFAULT
+	select CPU_INTEL_MODEL_206AX
+	select INTEL_GMA_ACPI
+
+config NORTHBRIDGE_INTEL_SANDYBRIDGE
+	bool
+	select MMCONF_SUPPORT
+	select MMCONF_SUPPORT_DEFAULT
+	select CPU_INTEL_MODEL_206AX
+	select HAVE_DEBUG_RAM_SETUP
+	select INTEL_GMA_ACPI
+
+config NORTHBRIDGE_INTEL_IVYBRIDGE_MRC
+	bool
+	select MMCONF_SUPPORT
+	select MMCONF_SUPPORT_DEFAULT
+	select CPU_INTEL_MODEL_306AX
+	select INTEL_GMA_ACPI
+
+config NORTHBRIDGE_INTEL_IVYBRIDGE
+	bool
+	select MMCONF_SUPPORT
+	select MMCONF_SUPPORT_DEFAULT
+	select CPU_INTEL_MODEL_306AX
+	select HAVE_DEBUG_RAM_SETUP
+	select INTEL_GMA_ACPI
+
+if NORTHBRIDGE_INTEL_SANDYBRIDGE_MRC || NORTHBRIDGE_INTEL_IVYBRIDGE_MRC || NORTHBRIDGE_INTEL_IVYBRIDGE || NORTHBRIDGE_INTEL_SANDYBRIDGE
+
+config VGA_BIOS_ID
+	string
+	default "8086,0106"
+
+config CACHE_MRC_SIZE_KB
+	int
+	default 512
+
+config IVYBRIDGE_LVDS
+	bool
+	default n
+
+config SANDYBRIDGE_LVDS
+	bool
+	default n
+
+config MRC_CACHE_SIZE
+	hex
+	depends on !CHROMEOS
+	default 0x10000
+
+config DCACHE_RAM_BASE
+	hex
+	default 0xff7e0000 if NORTHBRIDGE_INTEL_IVYBRIDGE_MRC
+	default 0xff7e0000 if NORTHBRIDGE_INTEL_SANDYBRIDGE_MRC
+	default 0xfefe0000 if NORTHBRIDGE_INTEL_IVYBRIDGE
+	default 0xfefe0000 if NORTHBRIDGE_INTEL_SANDYBRIDGE
+
+config DCACHE_RAM_SIZE
+	hex
+	default 0x20000
+
+config BOOTBLOCK_NORTHBRIDGE_INIT
+	string
+	default "northbridge/intel/sandybridge/bootblock.c"
+
+config DCACHE_RAM_MRC_VAR_SIZE
+	hex
+	default 0x4000
+
+config HAVE_MRC
+	bool "Add a System Agent binary"
+	depends on !NORTHBRIDGE_INTEL_IVYBRIDGE && !NORTHBRIDGE_INTEL_SANDYBRIDGE
+	help
+	  Select this option to add a System Agent binary to
+	  the resulting coreboot image.
+
+	  Note: Without this binary coreboot will not work
+
+config MRC_FILE
+	string "Intel System Agent path and filename"
+	depends on HAVE_MRC
+	default "3rdparty/blobs/northbridge/intel/sandybridge/systemagent-r6.bin"
+	help
+	  The path and filename of the file to use as System Agent
+	  binary.
+
+endif

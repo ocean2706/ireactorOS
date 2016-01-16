@@ -1,0 +1,18 @@
+/Makefile.in/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/add.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/back-sock.h/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/bind.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/compare.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/config.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/delete.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/init.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/modify.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/modrdn.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/opensock.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/proto-sock.h/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/result.c/1.1.1.5/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/search.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/searchexample.conf/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/searchexample.pl/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+/unbind.c/1.1.1.4/Wed May 28 09:58:51 2014//Tnetbsd-7-0-RELEASE
+D

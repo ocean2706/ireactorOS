@@ -1,0 +1,12 @@
+/2008-08-14-ShadowIV.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/2009-11-10-LSRCrash.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/2011-07-20-DoubleIV.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/2011-11-29-postincphi.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/2011-12-04-loserreg.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/2012-01-13-phielim.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/ivchain-X86.ll/1.1.1.2/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/ivchain-stress-X86.ll/1.1.1.1/Thu Nov 28 14:18:07 2013//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:36 2014//Tnetbsd-7-0-RELEASE
+/no_superflous_induction_vars.ll/1.1.1.1/Tue Mar  4 20:54:19 2014//Tnetbsd-7-0-RELEASE
+/pr17473.ll/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+D

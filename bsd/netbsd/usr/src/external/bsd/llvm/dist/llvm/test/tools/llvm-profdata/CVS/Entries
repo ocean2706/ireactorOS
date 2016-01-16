@@ -1,0 +1,17 @@
+/c-general.test/1.1.1.2/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/compat.proftext/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/count-mismatch.proftext/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/general.proftext/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/hash-mismatch.proftext/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/multiple-inputs.test/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/overflow.proftext/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/raw-32-bits-be.test/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/raw-32-bits-le.test/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/raw-64-bits-be.test/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/raw-64-bits-le.test/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/raw-magic-but-no-header.test/1.1.1.1/Fri May 30 18:11:27 2014//Tnetbsd-7-0-RELEASE
+/raw-two-profiles.test/1.1.1.1.4.1/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/sample-profile-basic.test/1.1.1.1.2.2/Thu Jun  4 20:05:36 2015//Tnetbsd-7-0-RELEASE
+/text-format-errors.test/1.1.1.1/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+D/Inputs////

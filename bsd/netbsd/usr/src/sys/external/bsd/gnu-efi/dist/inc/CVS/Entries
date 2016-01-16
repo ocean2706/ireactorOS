@@ -1,0 +1,36 @@
+/Makefile/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efi.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efi_nii.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efi_pxe.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiapi.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/eficon.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efidebug.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efidef.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efidevp.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efierr.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efifs.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efigpt.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiip.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efilib.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efilink.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efinet.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efipart.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efipciio.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiprot.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efipxebc.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efirtlib.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiser.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efistdarg.h/1.2/Tue Apr  8 17:55:18 2014//Tnetbsd-7-0-RELEASE
+/efitcp.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiudp.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/efiui.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/inc.mak/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/libsmbios.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/make.inf/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/makefile.hdr/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/pci22.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+/romload.h/1.1.1.1/Tue Apr  1 16:16:07 2014//Tnetbsd-7-0-RELEASE
+D/ia32////
+D/ia64////
+D/protocol////
+D/x86_64////

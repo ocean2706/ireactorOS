@@ -1,0 +1,17 @@
+/Imakefile/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxaddinput.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxaddscreen.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxreconfig.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxresize.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxrminput.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxrmscreen.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/dmxwininfo.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/ev.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/evi.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/res.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/xbell.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/xdmx.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/xinput.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/xled.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+/xtest.c/1.1.1.1/Fri Mar 18 13:11:05 2005//Tnetbsd-7-0-RELEASE
+D

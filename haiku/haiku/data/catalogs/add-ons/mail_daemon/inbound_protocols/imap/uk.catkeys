@@ -1,0 +1,7 @@
+1	ukrainian	x-vnd.Haiku-IMAP	3950045582
+Destination:	imap_config		Типові:
+status	IMAPFolderConfig		стан
+Apply	IMAPFolderConfig		Застосувати
+Fetching IMAP folders, have patience...	IMAPFolderConfig		Отримання папок IMAP, зачекайте…
+IMAP Folders	IMAPFolderConfig		Папки IMAP
+Failed to fetch available storage.	IMAPFolderConfig		Призупинено отримання доступних масивів.

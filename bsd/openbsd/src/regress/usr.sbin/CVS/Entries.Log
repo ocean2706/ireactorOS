@@ -1,0 +1,8 @@
+A D/httpd////
+A D/mtree////
+A D/openssl////
+A D/ospfd////
+A D/pkg_add////
+A D/relayd////
+A D/syslogd////
+R D/openssl////

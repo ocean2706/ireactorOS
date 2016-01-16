@@ -1,0 +1,26 @@
+/arguments-float.ll/1.1.1.1.4.1/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-fp128.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/arguments-hard-float-varargs.ll/1.1.1.2/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/arguments-hard-float.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/arguments-hard-fp128.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/arguments-small-structures-bigger-than-32bits.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-struct.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-varargs-small-structs-byte.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-varargs-small-structs-combinations.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-varargs-small-structs-multiple-args.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/arguments-varargs.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/arguments.ll/1.1.1.1.4.1/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/callee-saved-float.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/callee-saved-fpxx.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/callee-saved-fpxx1.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/callee-saved.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/memory-layout.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/reserved-space.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/return-float.ll/1.1.1.1.4.1/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/return-hard-float.ll/1.1.1.2.2.1/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/return-hard-fp128.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+/return-hard-struct-f128.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/return-struct.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/return.ll/1.1.1.1.4.1/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/stack-alignment.ll/1.1.1.1/Fri May 30 18:11:19 2014//Tnetbsd-7-0-RELEASE
+D

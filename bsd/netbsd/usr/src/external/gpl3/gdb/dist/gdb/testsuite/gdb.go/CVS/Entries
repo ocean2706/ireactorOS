@@ -1,0 +1,23 @@
+/Makefile.in/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/basic-types.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/chan.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/chan.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/handcall.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/handcall.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/hello.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/hello.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/integers.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/integers.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/methods.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/methods.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/package.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/package1.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/package2.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/print.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/strings.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/strings.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/types.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/types.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+/unsafe.exp/1.1.1.2/Sun Jun 22 23:41:22 2014//Tnetbsd-7-0-RELEASE
+/unsafe.go/1.1.1.1/Thu Oct  3 15:51:38 2013//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,53 @@
+/README/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/TODO/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/bytecode.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/bytecode.h/1.1.1.1/Wed Jul 30 04:16:24 2008//Tnetbsd-7-0-RELEASE
+/compile.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/core.c/1.1.1.3/Fri May 31 06:13:21 2013//Tnetbsd-7-0-RELEASE
+/core.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/debugger.c/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/debugger.h/1.1.1.1/Wed Jul 30 04:16:27 2008//Tnetbsd-7-0-RELEASE
+/format.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/format.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/getenv.c/1.1.1.1/Fri May 31 06:13:21 2013//Tnetbsd-7-0-RELEASE
+/hash.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/hash.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/helper.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/helper.h/1.1.1.1/Wed Jul 30 04:16:25 2008//Tnetbsd-7-0-RELEASE
+/internal.h/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/io.c/1.1.1.3/Sun Nov 21 01:15:33 2010//Tnetbsd-7-0-RELEASE
+/io.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/lisp.c/1.1.1.3/Fri May 31 06:13:22 2013//Tnetbsd-7-0-RELEASE
+/lisp.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/lsp.c/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/math.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/math.h/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-7-0-RELEASE
+/mathimp.c/1.1.1.2/Fri May 31 06:13:21 2013//Tnetbsd-7-0-RELEASE
+/package.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/package.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/pathname.c/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/pathname.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/private.h/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/read.c/1.1.1.3/Fri May 31 06:13:21 2013//Tnetbsd-7-0-RELEASE
+/read.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/regex.c/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/regex.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/require.c/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/require.h/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-7-0-RELEASE
+/setenv.c/1.1.1.1/Fri May 31 06:13:21 2013//Tnetbsd-7-0-RELEASE
+/stream.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/stream.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/string.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/string.h/1.1.1.1/Wed Jul 30 04:16:22 2008//Tnetbsd-7-0-RELEASE
+/struct.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/struct.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/time.c/1.1.1.1/Wed Jul 30 04:16:21 2008//Tnetbsd-7-0-RELEASE
+/time.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+/write.c/1.1.1.2/Tue Mar 10 03:48:42 2009//Tnetbsd-7-0-RELEASE
+/write.h/1.1.1.1/Wed Jul 30 04:16:23 2008//Tnetbsd-7-0-RELEASE
+/xedit.c/1.1.1.1/Wed Jul 30 04:16:27 2008//Tnetbsd-7-0-RELEASE
+/xedit.h/1.1.1.1/Wed Jul 30 04:16:26 2008//Tnetbsd-7-0-RELEASE
+D/modules////
+D/mp////
+D/re////
+D/test////

@@ -1,0 +1,12 @@
+1	lithuanian	x-vnd.Haiku-NewMailNotification	583443025
+Keyboard LEDs	ConfigView		klaviatūros diodais
+Log window	ConfigView		žurnalo lange
+Central beep	ConfigView		centriniu pyptelėjimu
+Beep	ConfigView		pyptelėjimu
+Method:	ConfigView		Pranešti:
+Central alert	ConfigView		centriniu pranešimu
+Alert	ConfigView		pranešimu
+none	ConfigView		niekaip
+New messages	filter		Nauji laiškai
+New mails notification	ConfigView		Pranešimas apie naujus laiškus
+OK	filter		Gerai

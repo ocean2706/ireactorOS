@@ -1,0 +1,7 @@
+1	italian	x-vnd.Haiku-IMAP	3950045582
+Destination:	imap_config		Destinazione:
+status	IMAPFolderConfig		stato
+Apply	IMAPFolderConfig		Applica
+Fetching IMAP folders, have patience...	IMAPFolderConfig		Recupero cartelle IMAP, abbi pazienza...
+IMAP Folders	IMAPFolderConfig		Cartelle IMAP
+Failed to fetch available storage.	IMAPFolderConfig		Impossibile ottenere memoria disponibile

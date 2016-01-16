@@ -1,0 +1,20 @@
+SubDir HAIKU_TOP src add-ons media media-add-ons esound_sink ;
+
+SetSubDirSupportedPlatformsBeOSCompatible ;
+
+if ! $(TARGET_PLATFORM_HAIKU_COMPATIBLE) {
+	SubDirC++Flags -fmultiple-symbol-spaces ;
+}
+
+local architectureObject ;
+for architectureObject in [ MultiArchSubDirSetup ] {
+	on $(architectureObject) {
+		Addon [ MultiArchDefaultGristFiles esound_sink.media_addon ] :
+			ESDEndpoint.cpp
+			ESDSinkAddOn.cpp
+			ESDSinkNode.cpp
+			: be media network [ TargetLibsupc++ ]
+		;
+	}
+}
+

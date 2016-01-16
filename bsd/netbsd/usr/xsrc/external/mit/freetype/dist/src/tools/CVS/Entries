@@ -1,0 +1,11 @@
+/Jamfile/1.1.1.1/Wed Jul 30 02:36:16 2008//Tnetbsd-7-0-RELEASE
+/afblue.pl/1.1.1.1.2.1/Thu Mar 26 09:45:56 2015//Tnetbsd-7-0-RELEASE
+/apinames.c/1.1.1.4/Thu Mar 20 08:22:50 2014//Tnetbsd-7-0-RELEASE
+/chktrcmp.py/1.1.1.2/Thu Mar 20 08:22:50 2014//Tnetbsd-7-0-RELEASE
+/cordic.py/1.1.1.2/Wed Jun  5 07:49:46 2013//Tnetbsd-7-0-RELEASE
+/glnames.py/1.1.1.4/Wed Jun  5 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/test_afm.c/1.1.1.3/Wed Jun  5 07:49:46 2013//Tnetbsd-7-0-RELEASE
+/test_bbox.c/1.1.1.2/Wed Jun  5 07:49:46 2013//Tnetbsd-7-0-RELEASE
+/test_trig.c/1.1.1.3.2.1/Thu Mar 26 09:45:56 2015//Tnetbsd-7-0-RELEASE
+D/docmaker////
+D/ftrandom////

@@ -1,0 +1,19 @@
+/agp.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/barrier.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/bug.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/byteorder.h/1.3/Wed Jul 16 20:59:58 2014//Tnetbsd-7-0-RELEASE
+/current.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/div64.h/1.1/Wed Jul 16 20:56:25 2014//Tnetbsd-7-0-RELEASE
+/io.h/1.3.2.1/Fri Mar  6 21:39:10 2015//Tnetbsd-7-0-RELEASE
+/ioctl.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/mman.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/mtrr.h/1.3/Wed Jul 16 20:56:25 2014//Tnetbsd-7-0-RELEASE
+/page.h/1.2/Wed Jul 16 20:59:58 2014//Tnetbsd-7-0-RELEASE
+/param.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/pat.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/pgalloc.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/processor.h/1.2.8.1/Mon Nov 10 19:45:54 2014//Tnetbsd-7-0-RELEASE
+/shmparam.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/uaccess.h/1.2/Tue Mar 18 18:20:42 2014//Tnetbsd-7-0-RELEASE
+/unaligned.h/1.1.4.1/Fri Mar  6 21:39:10 2015//Tnetbsd-7-0-RELEASE
+D

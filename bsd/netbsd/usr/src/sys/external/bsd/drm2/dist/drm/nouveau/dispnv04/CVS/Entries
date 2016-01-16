@@ -1,0 +1,17 @@
+/Makefile/1.1.1.1/Wed Jul 16 19:35:26 2014//Tnetbsd-7-0-RELEASE
+/disp.h/1.1.1.1/Wed Jul 16 19:35:26 2014//Tnetbsd-7-0-RELEASE
+/hw.h/1.1.1.1/Wed Jul 16 19:35:26 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_arb.c/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_crtc.c/1.1.1.1/Wed Aug  6 12:36:32 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_cursor.c/1.1.1.1/Wed Aug  6 12:36:32 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_dac.c/1.1.1.1/Wed Aug  6 12:36:32 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_dfp.c/1.1.1.1/Wed Aug  6 12:36:32 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_disp.c/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_hw.c/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_overlay.c/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_tvmodesnv17.c/1.2.4.1/Sun Sep 21 17:41:52 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_tvnv04.c/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+/nouveau_dispnv04_tvnv17.c/1.2.4.1/Sun Sep 21 17:41:52 2014//Tnetbsd-7-0-RELEASE
+/nvreg.h/1.1.1.1/Wed Jul 16 19:35:26 2014//Tnetbsd-7-0-RELEASE
+/tvnv17.h/1.2/Wed Aug  6 15:01:34 2014//Tnetbsd-7-0-RELEASE
+D

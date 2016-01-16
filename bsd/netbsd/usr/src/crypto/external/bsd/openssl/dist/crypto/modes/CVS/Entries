@@ -1,0 +1,12 @@
+/Makefile/1.1.1.3.4.1/Sat Jul 11 17:33:51 2015//Tnetbsd-7-0-RELEASE
+/cbc128.c/1.1.1.3.4.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/ccm128.c/1.1.1.2.4.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/cfb128.c/1.1.1.3.12.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/ctr128.c/1.1.1.3.12.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/cts128.c/1.1.1.3.4.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/gcm128.c/1.1.1.4.2.2/Sat Jul 11 17:33:51 2015//Tnetbsd-7-0-RELEASE
+/modes.h/1.1.1.2.12.2/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/modes_lcl.h/1.1.1.2.4.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/ofb128.c/1.1.1.3.12.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+/xts128.c/1.1.1.1.16.1/Wed Apr 29 04:53:45 2015//Tnetbsd-7-0-RELEASE
+D/asm////

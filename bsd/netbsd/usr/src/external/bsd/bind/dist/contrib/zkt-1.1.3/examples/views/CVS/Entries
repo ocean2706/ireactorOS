@@ -1,0 +1,12 @@
+/dnssec-extern.conf/1.1.1.1.2.2/Fri Jul 17 04:31:30 2015//Tnetbsd-7-0-RELEASE
+/dnssec-intern.conf/1.1.1.1.2.2/Fri Jul 17 04:31:30 2015//Tnetbsd-7-0-RELEASE
+/dnssec-signer-extern/1.1.1.1.2.2/Fri Jul 17 04:31:30 2015//Tnetbsd-7-0-RELEASE
+/dnssec-signer-intern/1.1.1.1.2.2/Fri Jul 17 04:31:30 2015//Tnetbsd-7-0-RELEASE
+/dnssec-zkt-extern/1.1.1.1.2.2/Fri Jul 17 04:31:30 2015//Tnetbsd-7-0-RELEASE
+/dnssec-zkt-intern/1.1.1.1.2.2/Fri Jul 17 04:31:31 2015//Tnetbsd-7-0-RELEASE
+/named.conf/1.1.1.1.2.2/Fri Jul 17 04:31:31 2015//Tnetbsd-7-0-RELEASE
+/named.log/1.1.1.1.2.2/Fri Jul 17 04:31:31 2015//Tnetbsd-7-0-RELEASE
+/root.hint/1.1.1.1.2.2/Fri Jul 17 04:31:31 2015//Tnetbsd-7-0-RELEASE
+/viewtest.sh/1.1.1.1.2.2/Fri Jul 17 04:31:31 2015//Tnetbsd-7-0-RELEASE
+D/extern////
+D/intern////

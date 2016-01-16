@@ -1,0 +1,50 @@
+1	dutch; flemish	x-vnd.Haiku-Mail	688530788
+Settings	Config Window		Instellingen
+Never	Config Window	show status window	Nooit
+While sending and receiving	Config Window		Tijdens versturen en ontvangen
+Incoming	Config Window		Binnenkomend
+Server name:	E-Mail		Servernaam:
+OK	Config Window		Oké
+E-mail address:	E-Mail		E-mailadres
+Account name:	E-Mail		Accountnaam:
+Account name:	Config Views		Accountnaam:
+Create new account	AutoConfigWindow		Een nieuw account aanmaken
+OK	Config Views		Oké
+The filter could not be moved. Deleting filter.	Config Views		Het filter kon niet verplaatst worden. Filter wordt verwijderd.
+Revert	Config Window		Herstellen
+Login name:	E-Mail		Loginnaam:
+Incoming	E-Mail		Binnenkomend
+Password:	E-Mail		Paswoord:
+Accounts	Config Window		Accounts
+Finish	AutoConfigWindow		Voltooien
+Remove	Config Window		Verwijderen
+Server Name:	E-Mail		Servernaam:
+While sending	Config Window		Tijdens het versturen
+Enter a valid e-mail address.	AutoConfigWindow		Vul een geldig e-mailadres in.
+Add	Config Window		Toevoegen
+Account settings	AutoConfigWindow		Accountinstellingen
+E-mail	System name		E-mail
+\nThe general settings couldn't be reverted.\n\nError retrieving general settings:\n%s\n	Config Window		\nDe algemene instellingen konden niet hersteld worden.\n\nFout bij het ophalen van de algemene instellingen:\n%s\n
+Real name:	Config Views		Echte naam:
+\t\t· Outgoing	Config Window		\t\t · Uitgaand
+Choose Protocol	E-Mail		Kies protocol
+Return address:	Config Views		Retouradres:
+Edit mailbox menu…	Config Window		Mailbox-menu aanpassen...
+Outgoing	E-Mail		Uitgaand
+\t\t· E-mail filters	Config Window		\t\t · E-mailfilters
+Remove	Config Views		Verwijderen
+\t\t· Incoming	Config Window		\t\t · Binnenkomend
+Next	AutoConfigWindow		Volgende
+Check every	Config Window		Controleer elke
+Back	AutoConfigWindow		Terug
+Incoming mail filters	Config Views		Filters voor binnenkomende mail
+Account settings	Config Views		Accountinstellingen
+minutes	Config Window		minuten
+Error retrieving general settings: %s\n	Config Window		Fout bij het ophalen van de algemene instellingen: %s \n
+Real name:	E-Mail		Echte naam:
+Apply	Config Window		Toepassen
+OK	AutoConfigWindow		Oké
+Add filter	Config Views		Filter toevoegen
+Outgoing	Config Window		Uitgaand
+Outgoing mail filters	Config Views		Filters voor uitgaande mail
+Error	Config Window		Fout

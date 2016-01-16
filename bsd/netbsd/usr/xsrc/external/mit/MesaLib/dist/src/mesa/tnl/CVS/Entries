@@ -1,0 +1,27 @@
+/NOTES/1.1.1.1.2.2/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_context.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_context.h/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_draw.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_pipeline.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_pipeline.h/1.1.1.3.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_rasterpos.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_cliptmp.h/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_fog.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_light.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_lighttmp.h/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_normals.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_points.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_program.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_render.c/1.1.1.3.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_rendertmp.h/1.1.1.3.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_texgen.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_texmat.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vb_vertex.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vertex.c/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vertex.h/1.1.1.3.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vertex_generic.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vertex_sse.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vp_build.c/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/t_vp_build.h/1.1.1.4.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+/tnl.h/1.1.1.5.2.1/Mon Jan  5 20:59:23 2015//Tnetbsd-7-0-RELEASE
+D

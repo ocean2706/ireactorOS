@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.3/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.4/Fri May 31 09:19:59 2013//Tnetbsd-7-0-RELEASE
+/XDGA.man/1.1.1.3/Fri May 31 09:19:59 2013//Tnetbsd-7-0-RELEASE
+/XDGAChangePixmapMode.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGACloseFramebuffer.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGACopyArea.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGACopyTransparentArea.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGACreateColormap.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAFillRectangle.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAGetViewportStatus.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAInstallColormap.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAKeyEventToXKeyEvent.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAOpenFramebuffer.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAQueryExtension.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAQueryModes.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGAQueryVersion.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGASelectInput.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGASetClientVersion.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGASetMode.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGASetViewport.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XDGASync.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XF86DGA.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+/XFree86-DGA.man/1.1.1.1/Sun Nov 21 05:49:03 2010//Tnetbsd-7-0-RELEASE
+D

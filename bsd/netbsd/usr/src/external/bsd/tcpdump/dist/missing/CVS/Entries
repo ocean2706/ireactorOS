@@ -1,0 +1,14 @@
+/addrinfo.h/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/datalinks.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/dlnames.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/getnameinfo.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/inet_aton.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/inet_ntop.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/inet_pton.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/snprintf.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/sockstorage.h/1.1.1.1/Sun Dec  5 03:15:43 2010//Tnetbsd-7-0-RELEASE
+/strdup.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/strlcat.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/strlcpy.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+/strsep.c/1.1.1.2/Sat Apr  6 17:58:04 2013//Tnetbsd-7-0-RELEASE
+D

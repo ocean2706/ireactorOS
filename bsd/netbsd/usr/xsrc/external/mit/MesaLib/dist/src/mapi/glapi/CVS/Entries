@@ -1,0 +1,11 @@
+/Makefile.sources/1.1.1.1.2.2/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/SConscript/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi.c/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi.h/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi_dispatch.c/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi_entrypoint.c/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi_getproc.c/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi_nop.c/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+/glapi_priv.h/1.1.1.1.2.1/Mon Jan  5 20:59:09 2015//Tnetbsd-7-0-RELEASE
+D/gen////
+D/tests////

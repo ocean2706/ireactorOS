@@ -1,0 +1,19 @@
+/CMakeLists.txt/1.1.1.1/Thu Nov 28 14:18:22 2013//Tnetbsd-7-0-RELEASE
+/InstCombine.h/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineAddSub.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineAndOrXor.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineCalls.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineCasts.cpp/1.1.1.7.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineCompares.cpp/1.1.1.7.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineLoadStoreAlloca.cpp/1.1.1.6.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineMulDivRem.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombinePHI.cpp/1.1.1.3.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineSelect.cpp/1.1.1.5.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineShifts.cpp/1.1.1.4.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineSimplifyDemanded.cpp/1.1.1.3.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstCombineVectorOps.cpp/1.1.1.5/Sun Aug 10 17:05:07 2014//Tnetbsd-7-0-RELEASE
+/InstCombineWorklist.h/1.1.1.2.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/InstructionCombining.cpp/1.1.1.6.2.1/Thu Jun  4 20:05:08 2015//Tnetbsd-7-0-RELEASE
+/LLVMBuild.txt/1.1.1.1/Thu Nov 28 14:18:22 2013//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.1/Thu Nov 28 14:18:22 2013//Tnetbsd-7-0-RELEASE
+D

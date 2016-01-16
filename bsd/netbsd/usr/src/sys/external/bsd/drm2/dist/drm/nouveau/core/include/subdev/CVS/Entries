@@ -1,0 +1,20 @@
+/bar.h/1.2.4.1/Sun Sep 21 17:41:52 2014//Tnetbsd-7-0-RELEASE
+/bios.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/bus.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/clock.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/devinit.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/fb.h/1.1.1.1.4.1/Sun Sep 21 17:41:52 2014//Tnetbsd-7-0-RELEASE
+/gpio.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/i2c.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/ibus.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/instmem.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/ltcg.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/mc.h/1.1.1.1.4.1/Fri Mar  6 21:39:09 2015//Tnetbsd-7-0-RELEASE
+/mxm.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/pwr.h/1.1.1.1.4.2/Fri Mar  6 21:39:09 2015//Tnetbsd-7-0-RELEASE
+/therm.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/timer.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/vga.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/vm.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/volt.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+D/bios////

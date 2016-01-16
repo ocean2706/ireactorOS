@@ -1,0 +1,10 @@
+/allocate_size.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/allocate_size_hint.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/construct.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/deallocate.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/destroy.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/inner_allocator.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/max_size.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/outer_allocator.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+/select_on_container_copy_construction.pass.cpp/1.1.1.2/Sat Jan  4 21:32:06 2014//Tnetbsd-7-0-RELEASE
+D

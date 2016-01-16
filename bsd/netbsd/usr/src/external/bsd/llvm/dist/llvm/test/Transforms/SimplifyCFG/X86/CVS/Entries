@@ -1,0 +1,5 @@
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:36 2014//Tnetbsd-7-0-RELEASE
+/switch-covered-bug.ll/1.1.1.1/Sun Aug 10 17:04:36 2014//Tnetbsd-7-0-RELEASE
+/switch-table-bug.ll/1.1.1.1/Sun Aug 10 17:04:36 2014//Tnetbsd-7-0-RELEASE
+/switch_to_lookup_table.ll/1.1.1.4.2.1/Thu Jun  4 20:05:34 2015//Tnetbsd-7-0-RELEASE
+D

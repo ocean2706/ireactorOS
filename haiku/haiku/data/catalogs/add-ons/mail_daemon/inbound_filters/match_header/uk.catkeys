@@ -1,0 +1,13 @@
+1	ukrainian	x-vnd.Haiku-MatchHeader	3677427558
+<Choose action>	ConfigView		<Вибір дії>
+has	ConfigView		має
+Move to	ConfigView		Перемістити до
+Then	ConfigView		Тоді
+this field is based on the action	ConfigView		це поле засноване на дії
+Delete message	ConfigView		Видалити повідомлення
+<Choose account>	ConfigView		<Вибір акаунта>
+Set flags to	ConfigView		Встановити флаги для
+Set as read	ConfigView		Встановити як прочитані
+Reply with	ConfigView		Відповісти з
+If	ConfigView		Якщо
+header (e.g. Subject)	ConfigView		заголовок (e.g. Subject)

@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1/Wed Nov 14 19:48:12 2001//Tnetbsd-7-0-RELEASE
+/README/1.1.1.1/Wed Nov 14 19:48:12 2001//Tnetbsd-7-0-RELEASE
+/acfunctions.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/acgeneral.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/acheaders.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/aclang.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/aclocal.m4/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/acspecific.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/actypes.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/atconfig.in/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/atgeneral.m4/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/atspecific.m4/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/base.at/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/compile.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/foreign.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/m4sh.at/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/m4sugar.at/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/mktests.sh/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/semantics.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+/suite.at/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/tools.at/1.1.1.1/Wed Nov 14 19:48:13 2001//Tnetbsd-7-0-RELEASE
+/torture.at/1.1.1.1/Wed Nov 14 19:48:14 2001//Tnetbsd-7-0-RELEASE
+D

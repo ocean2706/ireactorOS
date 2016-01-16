@@ -1,0 +1,17 @@
+/Makefile.in/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/README/1.1.1.3/Mon Jun  4 17:54:42 2012//Tnetbsd-7-0-RELEASE
+/cleanall.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/conf.sh.in/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/run.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/runall.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/setup.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/start.pl/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/start.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/stop.pl/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/stop.sh/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/testsock.pl/1.1.1.4/Tue Dec  4 19:23:00 2012//Tnetbsd-7-0-RELEASE
+/vtwrapper.c/1.3/Tue Jun  5 00:39:35 2012//Tnetbsd-7-0-RELEASE
+D/autosign-ksk////
+D/autosign-zsk////
+D/common////
+D/slave////

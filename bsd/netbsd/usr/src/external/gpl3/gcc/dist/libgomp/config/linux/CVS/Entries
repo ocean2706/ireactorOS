@@ -1,0 +1,23 @@
+/affinity.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/bar.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/bar.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/futex.h/1.1.1.2/Tue May 27 08:39:52 2014//Tnetbsd-7-0-RELEASE
+/lock.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/mutex.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/mutex.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/omp-lock.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/proc.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/proc.h/1.1.1.1/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/ptrlock.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/ptrlock.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/sem.c/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/sem.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+/wait.h/1.1.1.2/Sat Mar  1 08:41:18 2014//Tnetbsd-7-0-RELEASE
+D/alpha////
+D/ia64////
+D/mips////
+D/powerpc////
+D/s390////
+D/sparc////
+D/tile////
+D/x86////

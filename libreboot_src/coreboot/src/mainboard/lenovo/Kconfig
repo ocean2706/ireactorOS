@@ -1,0 +1,104 @@
+if VENDOR_LENOVO
+
+choice
+	prompt "Mainboard model"
+
+config BOARD_LENOVO_X60
+	bool "ThinkPad X60 / X60s / X60t"
+	help
+	  The following X60 series ThinkPad machines have been verified to
+	  work correctly:
+
+	    ThinkPad X60s (Model 1702, 1703)
+	    ThinkPad X60  (Model 1709)
+
+config BOARD_LENOVO_X200
+	bool "ThinkPad X200"
+	help
+	  Lenovo X200 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_X201
+	bool "ThinkPad X201 / X201s / X201t"
+	help
+	  Lenovo X201 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_X220
+	bool "ThinkPad X220"
+	help
+	  Lenovo X220 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_X230
+	bool "ThinkPad X230"
+	help
+	  Lenovo X230 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T400
+	bool "ThinkPad T400"
+	help
+	  Lenovo T400 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T420S
+	bool "ThinkPad T420s"
+	help
+	  Lenovo T420s laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T430S
+	bool "ThinkPad T430s"
+	help
+	  Lenovo T430s laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T500
+	bool "ThinkPad T500"
+	help
+	  Lenovo T500 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T520
+	bool "ThinkPad T520"
+	help
+	  Lenovo T520 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T530
+	bool "ThinkPad T530"
+	help
+	  Lenovo T530 laptop. Consult wiki for details.
+
+config BOARD_LENOVO_T60
+	bool "ThinkPad T60 / T60p"
+	help
+	  The following T60 series ThinkPad machines have been verified to
+          work correctly:
+
+	    Thinkpad T60p (Model 2007)
+
+config BOARD_LENOVO_G505S
+	bool "AMD G505s"
+	help
+	  Lenovo G505s
+
+config BOARD_LENOVO_R400
+	bool "ThinkPad R400"
+	help
+	  Lenovo R400 laptop. Consult wiki for details.
+
+endchoice
+
+source "src/mainboard/lenovo/x60/Kconfig"
+source "src/mainboard/lenovo/x200/Kconfig"
+source "src/mainboard/lenovo/x201/Kconfig"
+source "src/mainboard/lenovo/x220/Kconfig"
+source "src/mainboard/lenovo/x230/Kconfig"
+source "src/mainboard/lenovo/t400/Kconfig"
+source "src/mainboard/lenovo/t420s/Kconfig"
+source "src/mainboard/lenovo/t430s/Kconfig"
+source "src/mainboard/lenovo/t500/Kconfig"
+source "src/mainboard/lenovo/t520/Kconfig"
+source "src/mainboard/lenovo/t530/Kconfig"
+source "src/mainboard/lenovo/t60/Kconfig"
+source "src/mainboard/lenovo/g505s/Kconfig"
+source "src/mainboard/lenovo/r400/Kconfig"
+
+config MAINBOARD_VENDOR
+	string
+	default "LENOVO"
+
+endif # VENDOR_LENOVO

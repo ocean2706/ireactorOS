@@ -1,0 +1,13 @@
+/Makefile/1.1.1.2.2.1/Sat Jul 11 17:33:52 2015//Tnetbsd-7-0-RELEASE
+/bio_pk7.c/1.1.1.2.10.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_asn1.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_attr.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_dgst.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_doit.c/1.1.1.5.2.3/Sat Jul 11 17:33:52 2015//Tnetbsd-7-0-RELEASE
+/pk7_enc.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_lib.c/1.1.1.2.22.2/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_mime.c/1.1.1.1.26.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pk7_smime.c/1.1.1.2.12.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pkcs7.h/1.1.1.3.2.2/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+/pkcs7err.c/1.1.1.2.2.1/Wed Apr 29 04:53:46 2015//Tnetbsd-7-0-RELEASE
+D/p7////

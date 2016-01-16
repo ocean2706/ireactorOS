@@ -1,0 +1,22 @@
+/detect.mk/1.1.1.2.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/exports.mk/1.1.1.3/Wed Jun  5 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/freetype.mk/1.1.1.3.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/link_dos.mk/1.1.1.1/Wed Jul 30 02:36:20 2008//Tnetbsd-7-0-RELEASE
+/link_std.mk/1.1.1.1/Wed Jul 30 02:36:20 2008//Tnetbsd-7-0-RELEASE
+/modules.mk/1.1.1.2/Thu Mar 20 08:22:50 2014//Tnetbsd-7-0-RELEASE
+/newline/1.1.1.1/Wed Jul 30 02:36:20 2008//Tnetbsd-7-0-RELEASE
+/toplevel.mk/1.1.1.5.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+D/amiga////
+D/ansi////
+D/atari////
+D/beos////
+D/cmake////
+D/compiler////
+D/dos////
+D/mac////
+D/os2////
+D/symbian////
+D/unix////
+D/vms////
+D/wince////
+D/windows////

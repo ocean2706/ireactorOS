@@ -1,0 +1,10 @@
+/genassym.cf/1.1.18.1/Wed Mar 11 20:22:56 2015//Tnetbsd-7-0-RELEASE
+/rpi.h/1.3.2.1/Wed Mar 11 20:22:56 2015//Tnetbsd-7-0-RELEASE
+/rpi2_start.S/1.1.2.2/Wed Mar 11 20:22:56 2015//Tnetbsd-7-0-RELEASE
+/rpi_machdep.c/1.43.2.5/Thu Jul 30 09:37:37 2015//Tnetbsd-7-0-RELEASE
+/rpi_start.S/1.12.2.1/Wed Mar 11 20:22:56 2015//Tnetbsd-7-0-RELEASE
+/rpi_vcmbox.c/1.3/Tue Apr  1 06:55:29 2014//Tnetbsd-7-0-RELEASE
+/vcio.h/1.1/Sun Oct 14 16:16:52 2012//Tnetbsd-7-0-RELEASE
+/vcpm.h/1.1/Tue Jan  8 16:49:43 2013//Tnetbsd-7-0-RELEASE
+/vcprop.h/1.9/Fri Jul 25 11:39:34 2014//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,6 @@
+/atomic_word.h/1.1.1.2/Sat Mar  1 08:41:36 2014//Tnetbsd-7-0-RELEASE
+/cpu_defines.h/1.1.1.2/Sat Mar  1 08:41:36 2014//Tnetbsd-7-0-RELEASE
+/cxxabi_tweaks.h/1.1.1.2/Sat Mar  1 08:41:36 2014//Tnetbsd-7-0-RELEASE
+D/atomicity_builtins////
+D/atomicity_mutex////
+D/opt////

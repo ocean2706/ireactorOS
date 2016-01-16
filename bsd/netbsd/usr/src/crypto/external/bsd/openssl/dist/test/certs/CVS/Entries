@@ -1,0 +1,14 @@
+/bad.key/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/bad.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/interCA.key/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/interCA.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/leaf.key/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/leaf.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/rootCA.key/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/rootCA.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/roots.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/subinterCA-ss.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/subinterCA.key/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/subinterCA.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+/untrusted.pem/1.1.1.1.2.2/Sat Jul 11 17:33:55 2015//Tnetbsd-7-0-RELEASE
+D

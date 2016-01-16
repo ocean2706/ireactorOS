@@ -1,0 +1,23 @@
+/CMakeLists.txt/1.1.1.1.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/ChangeLog/1.1.1.7.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/ChangeLog.20/1.1.1.1/Wed Jul 30 02:35:58 2008//Tnetbsd-7-0-RELEASE
+/ChangeLog.21/1.1.1.2.10.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/ChangeLog.22/1.1.1.2/Mon Apr 13 18:49:10 2009//Tnetbsd-7-0-RELEASE
+/ChangeLog.23/1.1.1.2/Wed Jun  5 07:49:45 2013//Tnetbsd-7-0-RELEASE
+/ChangeLog.24/1.1.1.1/Thu Mar 20 08:22:49 2014//Tnetbsd-7-0-RELEASE
+/Jamfile/1.1.1.7.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/Jamrules/1.1.1.1/Wed Jul 30 02:35:58 2008//Tnetbsd-7-0-RELEASE
+/Makefile/1.1.1.1/Wed Jul 30 02:36:00 2008//Tnetbsd-7-0-RELEASE
+/README/1.1.1.7.2.1/Thu Mar 26 09:45:52 2015//Tnetbsd-7-0-RELEASE
+/README.git/1.1.1.2/Thu Mar 20 08:22:49 2014//Tnetbsd-7-0-RELEASE
+/autogen.sh/1.1.1.6/Thu Mar 20 08:22:49 2014//Tnetbsd-7-0-RELEASE
+/configure/1.1.1.5/Wed Jun  5 07:49:45 2013//Tnetbsd-7-0-RELEASE
+/modules.cfg/1.1.1.5/Thu Mar 20 08:22:49 2014//Tnetbsd-7-0-RELEASE
+/version.sed/1.1.1.1/Wed Jul 30 02:35:58 2008//Tnetbsd-7-0-RELEASE
+/vms_make.com/1.1.1.2/Thu Mar 20 08:22:49 2014//Tnetbsd-7-0-RELEASE
+D/builds////
+D/devel////
+D/docs////
+D/include////
+D/objs////
+D/src////

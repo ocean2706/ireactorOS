@@ -1,0 +1,70 @@
+#!/bin/bash
+
+#  generic build script, for building libreboot (all of it)
+#
+#	Copyright (C) 2014, 2015 Francis Rowe <info@gluglug.org.uk>
+#                      2015 Patrick "P. J." McDermott <pj@pehjota.net>
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+[ "x${DEBUG+set}" = 'xset' ] && set -v
+set -u -e
+
+build=./resources/scripts/helpers/build
+mode="unknown"
+option="unknown"
+
+usage="./build mode option"
+availablemodes="$(ls $build/)"
+availableoptions="unknown" # unknown until the mode is determined
+
+# User specified no or too few/many parameters
+if [ $# -lt 2 ]; then
+	printf "$usage\n\n"
+	printf "possible values for 'mode':\n$availablemodes\n\n"
+	printf "Example: ./build module all\n"
+	printf "Example: ./build module flashrom\n"
+	printf "Example: ./build roms withgrub\n"
+	printf "Example: ./build release archives\n"
+	printf "Example: ./build clean all\n"
+	printf "Example (extra option) ./build module bucts static\n"
+	printf "Refer to the libreboot documentation for more info\n\n"
+	exit 1
+fi
+mode=$1
+option=$2
+shift 2
+
+if [ -d "$build/$mode" ]; then
+	availableoptions="$(ls $build/$mode/)"
+	if [ "$option" = "list" ]; then
+		printf "Available options for '$mode' are:\nall\n$availableoptions\n\n"
+	elif [ -f "$build/$mode/$option" ]; then
+		$build/$mode/$option "$@"
+	elif [ "$option" = "all" ]; then
+		for option in $availableoptions; do
+			$build/$mode/$option "$@"
+		done
+	else
+		printf "Invalid option for '$mode'. Available options are:\nall\n$availableoptions\n\n"
+		exit 1
+	fi
+else
+	printf "Invalid mode. Available modes are:\n$availablemodes\n\n"
+	exit 1
+fi
+
+# ------------------- DONE ----------------------
+

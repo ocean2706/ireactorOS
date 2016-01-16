@@ -1,0 +1,10 @@
+/ld_hoist1.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/ld_hoist_st_sink.ll/1.1.1.1/Sun Aug 10 17:04:37 2014//Tnetbsd-7-0-RELEASE
+/st_sink_barrier_call.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_bugfix_22613.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_no_barrier_call.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_no_barrier_load.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_no_barrier_store.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_two_stores.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+/st_sink_with_barrier.ll/1.1.1.1.2.2/Thu Jun  4 20:05:30 2015//Tnetbsd-7-0-RELEASE
+D

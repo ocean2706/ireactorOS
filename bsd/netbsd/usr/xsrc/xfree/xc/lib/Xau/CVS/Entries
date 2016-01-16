@@ -1,0 +1,14 @@
+/AuDispose.c/1.1.1.4/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+/AuFileName.c/1.1.1.4/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+/AuGetAddr.c/1.1.1.5/Fri Mar  5 14:24:18 2004//Tnetbsd-7-0-RELEASE
+/AuGetBest.c/1.1.1.5/Fri Mar  5 14:24:18 2004//Tnetbsd-7-0-RELEASE
+/AuLock.c/1.1.1.6/Fri Mar  5 14:24:18 2004//Tnetbsd-7-0-RELEASE
+/AuRead.c/1.1.1.4/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+/AuUnlock.c/1.1.1.5/Fri Mar  5 14:24:18 2004//Tnetbsd-7-0-RELEASE
+/AuWrite.c/1.1.1.4/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+/Autest.c/1.1.1.3/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+/Imakefile/1.1.1.4/Fri Mar 18 13:04:37 2005//Tnetbsd-7-0-RELEASE
+/README/1.1.1.1/Mon Jan  1 12:44:16 2001//Tnetbsd-7-0-RELEASE
+/Xauth.h/1.1.1.5/Fri Mar  5 14:24:18 2004//Tnetbsd-7-0-RELEASE
+/k5encode.c/1.1.1.3/Sat Jan 19 14:56:44 2002//Tnetbsd-7-0-RELEASE
+D

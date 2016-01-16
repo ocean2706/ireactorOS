@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.5/Mon Jun  3 07:34:27 2013//Tnetbsd-7-0-RELEASE
+/appledri.c/1.1.1.4/Mon Jun  3 07:34:27 2013//Tnetbsd-7-0-RELEASE
+/appledri.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/appledristr.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/dri.c/1.1.1.4/Mon Jun  3 07:34:27 2013//Tnetbsd-7-0-RELEASE
+/dri.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/driWrap.c/1.1.1.2/Tue Aug  2 06:57:01 2011//Tnetbsd-7-0-RELEASE
+/driWrap.h/1.1.1.1/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/dristruct.h/1.1.1.1/Thu Jun 11 01:53:00 2009//Tnetbsd-7-0-RELEASE
+/x-hash.c/1.1.1.1/Thu Jun 11 01:53:00 2009//Tnetbsd-7-0-RELEASE
+/x-hash.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/x-hook.c/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/x-hook.h/1.1.1.1/Thu Jun 11 01:53:00 2009//Tnetbsd-7-0-RELEASE
+/x-list.c/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/x-list.h/1.1.1.1/Thu Jun 11 01:53:00 2009//Tnetbsd-7-0-RELEASE
+/xpr.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/xprAppleWM.c/1.1.1.4/Tue Aug  2 06:57:01 2011//Tnetbsd-7-0-RELEASE
+/xprCursor.c/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/xprEvent.c/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/xprEvent.h/1.1.1.2/Tue Nov 23 05:21:56 2010//Tnetbsd-7-0-RELEASE
+/xprFrame.c/1.1.1.5/Mon Jun  3 07:34:27 2013//Tnetbsd-7-0-RELEASE
+/xprScreen.c/1.1.1.4/Tue Aug  2 06:57:01 2011//Tnetbsd-7-0-RELEASE
+D

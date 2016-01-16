@@ -1,0 +1,24 @@
+/Makefile.am/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/nv_const.h/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/nv_cursor.c/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/nv_dac.c/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/nv_dga.c/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/nv_driver.c/1.3/Wed Nov 24 02:54:09 2010//Tnetbsd-7-0-RELEASE
+/nv_include.h/1.1.1.1/Sun Sep 21 02:09:25 2008//Tnetbsd-7-0-RELEASE
+/nv_local.h/1.1.1.1/Sun Sep 21 02:09:25 2008//Tnetbsd-7-0-RELEASE
+/nv_proto.h/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nv_setup.c/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nv_shadow.c/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nv_type.h/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nv_video.c/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nv_xaa.c/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nvdrv.man/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nvreg.h/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nvvga.h/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nvxbox.man/1.1.1.1/Sun Sep 21 02:09:26 2008//Tnetbsd-7-0-RELEASE
+/nvxboxdrv.man/1.1.1.1/Sun Sep 21 02:09:24 2008//Tnetbsd-7-0-RELEASE
+/riva_hw.c/1.1.1.1/Sun Sep 21 02:09:27 2008//Tnetbsd-7-0-RELEASE
+/riva_hw.h/1.1.1.1/Sun Sep 21 02:09:27 2008//Tnetbsd-7-0-RELEASE
+/riva_tbl.h/1.1.1.1/Sun Sep 21 02:09:27 2008//Tnetbsd-7-0-RELEASE
+D

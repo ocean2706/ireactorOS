@@ -1,0 +1,8 @@
+/invalid-mips32.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/invalid-mips32r2.s/1.1.1.1.2.2/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips4-wrong-error.s/1.1.1.1.2.2/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips4.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/invalid-mips5-wrong-error.s/1.1.1.1.4.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips5.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/valid.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+D

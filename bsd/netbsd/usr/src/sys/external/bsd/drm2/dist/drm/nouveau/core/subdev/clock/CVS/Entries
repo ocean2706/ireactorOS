@@ -1,0 +1,16 @@
+/nouveau_subdev_clock_base.c/1.1.1.1.4.1/Fri Mar  6 21:39:09 2015//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nv04.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nv40.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nv50.c/1.1.1.1.4.2/Tue Mar 17 17:52:49 2015//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nv84.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nva3.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nvaa.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nvc0.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_nve0.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_pllnv04.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nouveau_subdev_clock_pllnva3.c/1.1.1.1/Wed Aug  6 12:36:29 2014//Tnetbsd-7-0-RELEASE
+/nv50.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/nva3.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/pll.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+/seq.h/1.1.1.1/Thu Jul 17 01:50:59 2014//Tnetbsd-7-0-RELEASE
+D

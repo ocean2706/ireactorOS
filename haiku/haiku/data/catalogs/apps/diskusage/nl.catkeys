@@ -1,0 +1,17 @@
+1	dutch; flemish	x-vnd.Haiku-DiskUsage	1435170580
+Scanning %refName%	Scanner		%refName% scannen
+Size	Info Window		Grootte
+Rescan	Pie View		Opnieuw scannen
+Kind	Info Window		Soort
+file unavailable	Pie View		bestand niet beschikbaar
+no supporting apps	Pie View		geen ondersteunende programma's
+Path	Info Window		Pad
+Scan	Status View		Scannen
+Rescan	Status View		Opnieuw scannen
+file unavailable	Status View		bestand niet beschikbaar
+DiskUsage	System name		DiskUsage
+Created	Info Window		Gemaakt
+Modified	Info Window		Aangepast
+Open	Pie View		Openen
+%a, %d %b %Y, %r	Info Window		%a, %d %b %Y, %r
+Free on %refName%	Scanner		Vrij op %refName%

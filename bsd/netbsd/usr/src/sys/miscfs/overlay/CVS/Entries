@@ -1,0 +1,6 @@
+/Makefile/1.1/Thu Jan 20 19:06:15 2000//Tnetbsd-7-0-RELEASE
+/files.overlay/1.1/Tue Apr 16 23:14:08 2002//Tnetbsd-7-0-RELEASE
+/overlay.h/1.8/Sat Jun 28 01:34:06 2008//Tnetbsd-7-0-RELEASE
+/overlay_vfsops.c/1.62.2.1/Sat Jan 17 12:10:55 2015//Tnetbsd-7-0-RELEASE
+/overlay_vnops.c/1.20.4.1/Sat Jan 17 12:10:55 2015//Tnetbsd-7-0-RELEASE
+D

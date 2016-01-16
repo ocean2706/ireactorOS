@@ -1,0 +1,6 @@
+/fail.txt/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/fail_with_bad_encoding.txt/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/lit.local.cfg/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/pass.txt/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+/write-bad-encoding.sh/1.1.1.1/Thu Nov 28 14:18:16 2013//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,42 @@
+1	russian	x-vnd.Haiku-libbe	3337473349
+gamma	AboutWindow		гамма
+beta	AboutWindow		бета
+%3.2f GiB	StringForSize		%3.2f ГБ
+Written by:	AboutWindow		Разработан:
+About %app%	AboutMenuItem		О программе…
+Cut	TextView		Вырезать
+Version	AboutWindow		Версия
+Cannot create the replicant for \"%description\".\n%error	ZombieReplicantView		Невозможно удалить репликант \"%description\".\n%error
+Copy	TextView		Копировать
+%3.2f KiB	StringForSize		%3.2f КБ
+alpha	AboutWindow		альфа
+Error	PrintJob		Ошибка
+All Rights Reserved.	AboutWindow		Все права защищены.
+{0, plural, one{# byte} other{# bytes}}	StringForSize		{0, plural, one{# байт} few{# байта} other{# байтов}}
+About %app%	AboutWindow		О программе…
+No pages to print!	PrintJob		Нет страниц для печати!
+OK	Dragger		ОК
+OK	PrintJob		ОК
+Green:	ColorControl		Зеленый:
+Version history:	AboutWindow		История версий:
+Remove replicant	Dragger		Удалить репликант
+Select all	TextView		Выделить все
+OK	AboutWindow		ОК
+OK	ZombieReplicantView		ОК
+Print Server is not responding.	PrintJob		Сервер печати не отвечает.
+Paste	TextView		Вставить
+Special Thanks:	AboutWindow		Особые благодарности:
+%.2f TiB	StringForSize		%.2f ТБ
+Cannot locate the application for the replicant. No application signature supplied.\n%error	ZombieReplicantView		Не удалось найти приложение этого репликанта. Не указана сигнатура приложения.\n%error
+Redo	TextView		Повторить
+<empty>	Menu		<пусто>
+Warning	Dragger		Внимание
+Undo	TextView		Отменить
+Red:	ColorControl		Красный:
+%3.2f MiB	StringForSize		%3.2f МБ
+About %app…	Dragger		О программе…
+development	AboutWindow		в разработке
+Error	ZombieReplicantView		Ошибка
+Blue:	ColorControl		Синий:
+gold master	AboutWindow		золотая
+Can't delete this replicant from its original application. Life goes on.	Dragger		Не удалось удалить этот репликант из его изначальное приложения. Жизнь продолжается.

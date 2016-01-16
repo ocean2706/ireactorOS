@@ -1,0 +1,62 @@
+1	italian	x-vnd.Haiku-DriveSetup	1487820795
+DriveSetup	System name		Gestione disco
+Cancel	AbstractParametersPanel		Annulla
+Delete	MainWindow		Rimuovi
+Are you sure you want to write the changes back to disk now?\n\nAll data on the selected partition will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler salvare le modifiche sul disco?\n\nSe procedi tutti i dati sulla partizione selezionata saranno irrimediabilmente perduti!
+Rescan	MainWindow		Riscansiona
+OK	MainWindow		Ok
+There's no space on the partition where a child partition could be created.	MainWindow		Su questa partizione non c'è spazio per creare una partizione figlia.
+Initialize	InitializeParametersPanel		Inizializza
+OK	AbstractParametersPanel		Ok
+<empty>	PartitionList		<vuoto>
+Unable to find the selected partition by ID.	MainWindow		Impossibile trovare la partizione selezionata utilizzando l'ID.
+Select a partition from the list below.	DiskView		Seleziona una partizione dall'elenco sottostante.
+No disk devices have been recognized.	DiskView		Nessun dispositivo disco è stato riconosciuto.
+The selected disk is read-only.	MainWindow		Il disco selezionato è di sola lettura.
+Could not mount partition %s.	MainWindow		Impossibile montare la partizione %s.
+The partition %s is already unmounted.	MainWindow		La partizione %s è stata già smontata.
+Failed to delete the partition. No changes have been written to disk.	MainWindow		Rimozione della partizione fallita. Nessuna modifica è stata scritta sul disco.
+Could not delete the selected partition.	MainWindow		Impossibile rimuovere la partizione selezionata.
+Initialize	MainWindow		Inizializza
+Error: 	MainWindow	in any error alert	Errore: 
+Partition %ld	DiskView		Partizione %ld
+<empty>	DiskView		<vuoto>
+Initialization of the partition %s failed. (Nothing has been written to disk.)	MainWindow		L'inizializzazione della partizione %s è fallita. (Nessuna modifica è stata scritta sul disco.)
+Are you sure you want to write the changes back to disk now?\n\nAll data on the partition will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler salvare le modifiche sul disco ora?\n\nProcedendo tutti i dati sulla partizione saranno irrimediabilmente perduti!
+Mounted at	PartitionList		Montato su
+There was an error acquiring the partition row.	MainWindow		Errore durante l'acquisizione della partizione.
+You need to select a partition entry from the list.	MainWindow		Dovete selezionare una partizione dall'elenco.
+The currently selected partition does not have a parent partition.	MainWindow		La partizione attualmente selezionata non ha una partizione genitrice.
+Are you sure you want to write the changes back to disk now?\n\nAll data on the selected disk will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler salvare le modifiche sul disco?\n\nProcedendo tutti i dati del disco selezionato saranno irrimediabilmente perduti!
+Write changes	MainWindow		Salva modifiche
+There was an error preparing the disk for modifications.	MainWindow		Si è verificato un errore preparando il disco per le modifiche.
+The partition %s is already mounted.	MainWindow		La partizione %s è stata già montata.
+Are you sure you want to write the changes back to disk now?\n\nAll data on the disk %s will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler salvare le modifiche sul disco?\n\nProcedendo tutti i dati sul disco %s saranno irrimediabilmente perduti!
+Are you sure you want to delete the selected partition?\n\nAll data on the partition will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler eliminare la partizione selezionata?\n\nProcedendo tutti i dati sulla partizione saranno irrimediabilmente perduti!
+Create…	MainWindow		Crea…
+Could not unmount partition %s.	MainWindow		Impossibile smontare la partizione %s.
+Mount	MainWindow		Monta
+Device	PartitionList		Dispositivo
+Disk	MainWindow		Disco
+Device	DiskView		Dispositivo
+Active	PartitionList		Attivo
+Volume name	PartitionList		Nome del volume
+Continue	MainWindow		Continua
+Cannot delete the selected partition.	MainWindow		La partizione selezionata non può essere rimossa.
+Mount all	MainWindow		Monta tutto
+Cancel	MainWindow		Annulla
+Delete partition	MainWindow		Elimina partizione
+Eject	MainWindow		Espelli
+Partition	MainWindow		Partizione
+File system	PartitionList		File system
+Validation of the given creation parameters failed.	MainWindow		La validazione dei parametri di creazione forniti è fallita.
+Size	PartitionList		Dimensione
+Validation of the given initialization parameters failed.	MainWindow		La validazione dei parametri di inizializzazione forniti è fallita.
+The selected partition does not contain a partitioning system.	MainWindow		La partizione selezionata non contiene un sistema di partizionamento.
+Are you sure you want to write the changes back to disk now?\n\nAll data on the partition %s will be irretrievably lost if you do so!	MainWindow		Sei sicuro di voler salvare le modifiche sul disco?\n\nProcedendo tutti i dati sulla partizione %s verranno irrimediabilmente perduti!
+The partition %s is currently mounted.	MainWindow		La partizione %s è stata già montata.
+Surface test (not implemented)	MainWindow		Verifica superficie (non implementato)
+Parameters	PartitionList		Parametri
+Creation of the partition has failed.	MainWindow		Creazione della partizione fallita.
+The currently selected partition is not empty.	MainWindow		La partizione attualmente selezionata non è vuota.
+Unmount	MainWindow		Smonta

@@ -1,0 +1,18 @@
+SubDir HAIKU_TOP src servers mount ;
+
+UsePrivateHeaders app mount shared storage ;
+
+Server mount_server
+	:
+	AutoMounter.cpp
+	:
+	libbe.so localestub [ TargetLibstdc++ ]
+	:
+	mount_server.rdef
+;
+
+DoCatalogs mount_server :
+	x-vnd.Haiku-mount_server
+	:
+	AutoMounter.cpp
+;

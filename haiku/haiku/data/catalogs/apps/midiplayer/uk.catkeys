@@ -1,0 +1,18 @@
+1	ukrainian	x-vnd.Haiku-MidiPlayer	471142057
+None	Main Window		Жоден
+Live input:	Main Window		Прямий вхід:
+Stop	Main Window		Стоп
+Cavern	Main Window		Печера
+Volume:	Main Window		Гучність:
+Reverb:	Main Window		Реверберація:
+OK	Main Window		Гаразд
+Off	Main Window		Вимкнути
+Dungeon	Main Window		Підземелля
+Play	Main Window		Відтворити
+Garage	Main Window		Гараж
+Closet	Main Window		Комірка
+MidiPlayer	System name		Програвач Midi
+Drop MIDI file here	Scope View		Перемістити MIDI файл сюди
+Igor's lab	Main Window		Лабораторія Ігоря
+Scope	Main Window		Осциллограф
+Could not load song	Main Window		Не вдалося завантажити мелодію

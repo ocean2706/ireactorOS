@@ -1,0 +1,12 @@
+/Android.mk/1.1.1.1.2.2/Mon Jan  5 20:59:12 2015//Tnetbsd-7-0-RELEASE
+/Makefile.am/1.1.1.1.2.2/Mon Jan  5 20:59:12 2015//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1.2.2/Mon Jan  5 20:59:12 2015//Tnetbsd-7-0-RELEASE
+/dri.pc.in/1.1.1.1.12.1/Mon Jan  5 20:59:12 2015//Tnetbsd-7-0-RELEASE
+/gen-symbol-redefs.py/1.1.1.1.2.2/Mon Jan  5 20:59:12 2015//Tnetbsd-7-0-RELEASE
+D/common////
+D/i915////
+D/i965////
+D/nouveau////
+D/r200////
+D/radeon////
+D/swrast////

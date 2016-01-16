@@ -1,0 +1,12 @@
+/Makefile.am/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/test_bitmap.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/test_formats.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/test_swap.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/test_xcb_image.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/test_xcb_image_shm.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/xcb-image.pc.in/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/xcb_image.c/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/xcb_image.h/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+/xcb_pixel.h/1.1.1.1/Sat Jul 17 20:28:32 2010//Tnetbsd-7-0-RELEASE
+D

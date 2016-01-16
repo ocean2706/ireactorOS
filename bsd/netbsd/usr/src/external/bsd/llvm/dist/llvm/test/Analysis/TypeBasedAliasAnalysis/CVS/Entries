@@ -1,0 +1,15 @@
+/PR17620.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/aliastest.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/argument-promotion.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/dse.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/dynamic-indices.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/functionattrs.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/gvn-nonlocal-type-mismatch.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/intrinsics.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/licm.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/memcpyopt.ll/1.1.1.2.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/placement-tbaa.ll/1.1.1.2.2.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/precedence.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/sink.ll/1.1.1.1.6.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+/tbaa-path.ll/1.1.1.3.2.1/Thu Jun  4 20:05:10 2015//Tnetbsd-7-0-RELEASE
+D

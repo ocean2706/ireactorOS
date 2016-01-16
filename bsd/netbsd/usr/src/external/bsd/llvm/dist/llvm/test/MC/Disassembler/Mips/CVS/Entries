@@ -1,0 +1,26 @@
+/lit.local.cfg/1.1.1.2/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/micromips.txt/1.1.1.2.6.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/micromips_le.txt/1.1.1.2.6.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips-dsp.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips2.txt/1.1.1.1.2.2/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips32.txt/1.1.1.2.2.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips32_le.txt/1.1.1.2/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/mips32r2.txt/1.1.1.2.2.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips32r2_le.txt/1.1.1.2.2.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips32r6.txt/1.1.1.2/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+/mips64.txt/1.1.1.1.6.1/Thu Jun  4 20:05:23 2015//Tnetbsd-7-0-RELEASE
+/mips64_le.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64r2.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64r2_le.txt/1.1.1.1/Thu Nov 28 14:18:08 2013//Tnetbsd-7-0-RELEASE
+/mips64r6.txt/1.1.1.2/Sun Aug 10 17:04:40 2014//Tnetbsd-7-0-RELEASE
+D/mips1////
+D/mips2////
+D/mips3////
+D/mips32////
+D/mips32r2////
+D/mips32r6////
+D/mips4////
+D/mips64////
+D/mips64r2////
+D/mips64r6////
+D/msa////

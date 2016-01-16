@@ -1,0 +1,12 @@
+/Makefile.am/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/factorize.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/isprime.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/pexpr-config-h.in/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-7-0-RELEASE
+/pexpr.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/primes.c/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/primes.h/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/qcn.c/1.1.1.1/Mon Jun 20 05:54:53 2011//Tnetbsd-7-0-RELEASE
+D/calc////
+D/expr////
+D/perl////

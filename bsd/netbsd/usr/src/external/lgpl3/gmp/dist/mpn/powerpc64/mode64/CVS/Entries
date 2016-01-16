@@ -1,0 +1,26 @@
+/aors_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorscnd_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorslsh1_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorslsh2_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorslshC_n.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/aorsmul_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/bdiv_dbm1c.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/dive_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/divrem_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/divrem_2.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/gmp-mparam.h/1.1.1.1/Mon Jun 20 05:54:40 2011//Tnetbsd-7-0-RELEASE
+/invert_limb.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mod_1_1.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mod_1_4.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mod_34lsub1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mode1o.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mul_1.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/mul_basecase.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/rsh1add_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/rsh1sub_n.asm/1.1.1.2/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+/sqr_basecase.asm/1.1.1.1/Fri Nov 29 07:49:48 2013//Tnetbsd-7-0-RELEASE
+D/p3////
+D/p4////
+D/p5////
+D/p6////
+D/p7////

@@ -1,0 +1,26 @@
+/ColorSB.h/1.1.1.3/Sat Jun  9 14:57:44 2001//Tnetbsd-7-0-RELEASE
+/ColorSBP.h/1.1.1.3/Sat Jun  9 14:57:44 2001//Tnetbsd-7-0-RELEASE
+/DPSScrollW.h/1.1.1.3/Sat Jun  9 14:57:44 2001//Tnetbsd-7-0-RELEASE
+/DPSScrollWP.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/FontCreatP.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/FontCreato.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/FontSB.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/FontSBP.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/FontSamplP.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/FontSample.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/Imakefile/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/PSres.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/XDPS.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/XDPSlib.h/1.1.1.3/Sat Jun  9 14:57:45 2001//Tnetbsd-7-0-RELEASE
+/XDPSproto.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/dpsNXargs.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/dpsXclient.h/1.1.1.2/Fri Mar 18 13:05:10 2005//Tnetbsd-7-0-RELEASE
+/dpsXcommon.h/1.1.1.1/Mon Jan  1 12:44:54 2001//Tnetbsd-7-0-RELEASE
+/dpsXpreview.h/1.1.1.3/Sat Jun  9 14:57:46 2001//Tnetbsd-7-0-RELEASE
+/dpsXshare.h/1.1.1.3/Sat Jun  9 14:57:46 2001//Tnetbsd-7-0-RELEASE
+/dpsXuserpath.h/1.1.1.3/Sat Jun  9 14:57:46 2001//Tnetbsd-7-0-RELEASE
+/dpsclient.h/1.1.1.4/Sat Jan 19 14:59:29 2002//Tnetbsd-7-0-RELEASE
+/dpsconfig.h/1.1.1.7/Fri Mar 18 13:05:10 2005//Tnetbsd-7-0-RELEASE
+/dpsexcept.h/1.1.1.3/Sat Jun  9 14:57:47 2001//Tnetbsd-7-0-RELEASE
+/dpsfriends.h/1.3/Fri Feb 28 21:49:22 2003//Tnetbsd-7-0-RELEASE
+D

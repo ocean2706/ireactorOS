@@ -1,0 +1,11 @@
+config SOUTHBRIDGE_INTEL_COMMON
+	def_bool n
+
+config LOCK_DOWN_BIOS
+	bool "Lock down the Flash"
+	default n
+	depends on EXPERT
+	help
+	  Lock down the Flash chip to prevent further modification by software.
+	  WARNING: Altering the contents of the Flash chip further WILL require
+	  a hardware programmer AND physical access to the Flash device!

@@ -1,0 +1,11 @@
+/Makefile.in/1.1.1.5/Tue Dec  4 19:22:35 2012//Tnetbsd-7-0-RELEASE
+/clean.sh/1.1.1.5/Fri Feb 28 17:40:08 2014//Tnetbsd-7-0-RELEASE
+/filter-aaaa.c/1.5/Sat Mar  1 03:24:33 2014//Tnetbsd-7-0-RELEASE
+/prereq.sh/1.1.1.5.4.1/Mon Dec 22 03:28:38 2014//Tnetbsd-7-0-RELEASE
+/setup.sh/1.1.1.6.2.1/Mon Dec 22 03:28:38 2014//Tnetbsd-7-0-RELEASE
+/tests.sh/1.1.1.4/Fri Feb 28 17:40:08 2014//Tnetbsd-7-0-RELEASE
+D/conf////
+D/ns1////
+D/ns2////
+D/ns3////
+D/ns4////

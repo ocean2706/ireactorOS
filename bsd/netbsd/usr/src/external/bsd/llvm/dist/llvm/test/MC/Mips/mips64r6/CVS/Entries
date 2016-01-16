@@ -1,0 +1,16 @@
+/invalid-mips1-wrong-error.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips1.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips2.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips3-wrong-error.s/1.1.1.1.4.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips3.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/invalid-mips32-wrong-error.s/1.1.1.1.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips4-wrong-error.s/1.1.1.1.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips4.s/1.1.1.1.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips5-wrong-error.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+/invalid-mips5.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/invalid-mips64.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/invalid.s/1.1.1.1/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/relocations.s/1.1.1.2/Sun Aug 10 17:04:39 2014//Tnetbsd-7-0-RELEASE
+/valid-xfail.s/1.1.1.1/Fri May 30 18:11:25 2014//Tnetbsd-7-0-RELEASE
+/valid.s/1.1.1.2.2.1/Thu Jun  4 20:05:26 2015//Tnetbsd-7-0-RELEASE
+D

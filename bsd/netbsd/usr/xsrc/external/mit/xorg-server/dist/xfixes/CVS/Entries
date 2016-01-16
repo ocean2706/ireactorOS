@@ -1,0 +1,10 @@
+/Makefile.am/1.1.1.2/Tue Nov 23 05:22:16 2010//Tnetbsd-7-0-RELEASE
+/Makefile.in/1.1.1.6/Mon Jun  3 07:34:30 2013//Tnetbsd-7-0-RELEASE
+/cursor.c/1.1.1.6/Mon Jun  3 07:34:30 2013//Tnetbsd-7-0-RELEASE
+/region.c/1.1.1.5/Tue Aug  2 06:57:06 2011//Tnetbsd-7-0-RELEASE
+/saveset.c/1.1.1.3/Tue Nov 23 05:22:16 2010//Tnetbsd-7-0-RELEASE
+/select.c/1.1.1.3.10.1/Tue Dec  9 19:36:58 2014//Tnetbsd-7-0-RELEASE
+/xfixes.c/1.1.1.4/Tue Aug  2 06:57:06 2011//Tnetbsd-7-0-RELEASE
+/xfixes.h/1.1.1.2/Tue Nov 23 05:22:16 2010//Tnetbsd-7-0-RELEASE
+/xfixesint.h/1.1.1.4/Tue Aug  2 06:57:06 2011//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,8 @@
+/Makefile/1.1/Wed Jan 26 01:18:53 2011//Tnetbsd-7-0-RELEASE
+/Makefile.booters/1.6/Wed Jan 22 15:16:14 2014//Tnetbsd-7-0-RELEASE
+/Makefile.inc/1.1/Wed Jan 26 01:18:53 2011//Tnetbsd-7-0-RELEASE
+D/boot////
+D/bootxx_cd9660////
+D/bootxx_ffs////
+D/bootxx_lfs////
+D/common////

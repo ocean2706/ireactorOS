@@ -1,0 +1,32 @@
+1	italian	x-vnd.Haiku-SoundRecorder	804840835
+Loop	RecorderWindow		Ripeti
+Cannot find default audio hardware	RecorderWindow		Impossibile trovare l'hardware audio predefinito
+Cannot find the temporary file created to hold the new recording	RecorderWindow		Impossibile trovare il file temporaneo creato per conservare la nuova registrazione
+Nothing to play	RecorderWindow		Niente da riprodurre
+File info	RecorderWindow		Informazioni sul file
+Drop files here	SoundListView		Trascina qui i file
+Input	RecorderWindow		Ingresso
+Stop	RecorderWindow		Interrompi
+Sound List	RecorderWindow		Elenco Suono
+Rewind	RecorderWindow		Torna indietro
+Sample rate:	RecorderWindow		Frequenza di campionamento:
+Invalid audio files	RecorderWindow		File audio non validi
+OK	RecorderWindow		Ok
+Cannot open the temporary file created to hold the new recording	RecorderWindow		Impossibile aprire il file temporaneo creato per conservare la nuova registrazione
+Input:	RecorderWindow		Ingresso:
+Forward	RecorderWindow		Avanti
+Play	RecorderWindow		Riproduci
+SoundRecorder	System name		SoundRecorder
+None	RecorderWindow		Nessuno
+Record	RecorderWindow		Registra
+Sample size: 	RecorderWindow		Dimensione del campione:
+Cannot recognize this file as a media file	RecorderWindow		Impossibile riconoscere questo file come di tipo media
+Format: 	RecorderWindow		Formato:
+File name: 	RecorderWindow		Nome file:
+Cannot connect to the selected sound input	RecorderWindow		Impossibile connettere all'ingresso sonoro selezionato
+Cannot get the file to play	RecorderWindow		Impossibile ottenere il file da riprodurre
+Cannot record a sound that long	RecorderWindow		Impossibile registrare un suono tanto esteso
+Duration:	RecorderWindow		Durata:
+Compression:	RecorderWindow		Compressione:
+Cannot find an unused name to use for the new recording	RecorderWindow		Impossibile trovare un nome inutilizzato da usare per la nuova registrazione
+Channels: 	RecorderWindow		Canali:

@@ -1,0 +1,12 @@
+/Makefile/1.10/Thu Sep  6 16:39:07 2012//Tnetbsd-7-0-RELEASE
+/debug.c/1.12/Sat Jul 21 05:49:42 2012//Tnetbsd-7-0-RELEASE
+/fuse.h/1.5.18.1/Wed Nov  5 18:11:30 2014//Tnetbsd-7-0-RELEASE
+/libperfuse.3/1.3/Tue May 10 12:14:37 2011//Tnetbsd-7-0-RELEASE
+/ops.c/1.66.2.16/Mon Jun  8 20:49:54 2015//Tnetbsd-7-0-RELEASE
+/perfuse.c/1.31.10.5/Thu Aug  6 21:52:13 2015//Tnetbsd-7-0-RELEASE
+/perfuse.h/1.1/Wed Aug 25 07:16:00 2010//Tnetbsd-7-0-RELEASE
+/perfuse_if.h/1.20/Sat Jul 21 05:49:42 2012//Tnetbsd-7-0-RELEASE
+/perfuse_priv.h/1.32.2.3/Wed Nov  5 18:11:30 2014//Tnetbsd-7-0-RELEASE
+/shlib_version/1.1/Wed Aug 25 07:16:00 2010//Tnetbsd-7-0-RELEASE
+/subr.c/1.20/Sun Aug 10 03:22:33 2014//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,18 @@
+/add.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/and.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/ashr.ll/1.1.1.2.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/call.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/indirectbr.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/lshr.ll/1.1.1.2.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/mul.ll/1.1.1.2.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/or.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/ret.ll/1.1.1.1/Sun Aug 10 17:04:42 2014//Tnetbsd-7-0-RELEASE
+/sdiv.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/select.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/shl.ll/1.1.1.2.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/srem.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/sub.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/udiv.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/urem.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+/xor.ll/1.1.1.1.2.2/Thu Jun  4 20:05:14 2015//Tnetbsd-7-0-RELEASE
+D

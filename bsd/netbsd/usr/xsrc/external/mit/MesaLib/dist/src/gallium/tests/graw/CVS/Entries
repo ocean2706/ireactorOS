@@ -1,0 +1,24 @@
+/SConscript/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/clear.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/disasm.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/fs-fragcoord.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/fs-frontface.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/fs-test.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/fs-write-z.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/graw_util.h/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/gs-test.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/occlusion-query.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/quad-sample.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/quad-tex.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/shader-leak.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tex-srgb.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tex-swizzle.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tgsi_dump.gdb/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tri-gs.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tri-instanced.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tri-large.c/1.1.1.1.2.2/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/tri.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+/vs-test.c/1.1.1.1.2.1/Mon Jan  5 20:58:56 2015//Tnetbsd-7-0-RELEASE
+D/fragment-shader////
+D/geometry-shader////
+D/vertex-shader////

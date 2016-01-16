@@ -1,0 +1,11 @@
+/autoconf.c/1.9/Sat Oct 27 17:18:09 2012//Tnetbsd-7-0-RELEASE
+/console.c/1.6/Tue Aug 11 12:38:24 2009//Tnetbsd-7-0-RELEASE
+/cpu.c/1.22/Mon Mar 24 19:13:48 2014//Tnetbsd-7-0-RELEASE
+/disksubr.c/1.21/Thu May 16 19:06:45 2013//Tnetbsd-7-0-RELEASE
+/locore_machdep.S/1.4/Sun Dec 11 12:18:51 2005//Tnetbsd-7-0-RELEASE
+/machdep.c/1.53/Mon Mar 24 19:13:48 2014//Tnetbsd-7-0-RELEASE
+/rtc.c/1.19/Sat Jul  9 16:59:40 2011//Tnetbsd-7-0-RELEASE
+/sb1250_icu.c/1.13/Sat Jul  9 16:59:40 2011//Tnetbsd-7-0-RELEASE
+/systemsw.c/1.17/Sat Jul  9 16:59:40 2011//Tnetbsd-7-0-RELEASE
+/zbbus.c/1.12/Sun Feb 20 07:47:38 2011//Tnetbsd-7-0-RELEASE
+D

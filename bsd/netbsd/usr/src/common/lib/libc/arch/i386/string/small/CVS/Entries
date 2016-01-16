@@ -1,0 +1,9 @@
+/memcmp.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-7-0-RELEASE
+/memcpy.S/1.2/Fri May 23 03:17:31 2014//Tnetbsd-7-0-RELEASE
+/memmove.S/1.1/Thu Jun 16 16:39:14 2011//Tnetbsd-7-0-RELEASE
+/memset.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-7-0-RELEASE
+/strchr.S/1.2.4.1/Mon Sep 29 15:31:01 2014//Tnetbsd-7-0-RELEASE
+/strcmp.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-7-0-RELEASE
+/strcpy.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-7-0-RELEASE
+/strlen.S/1.2/Sat Mar 22 19:38:46 2014//Tnetbsd-7-0-RELEASE
+D

@@ -1,0 +1,12 @@
+/Jamfile/1.1.1.2/Mon Nov 22 08:33:23 2010//Tnetbsd-7-0-RELEASE
+/ftgrays.c/1.1.1.7.2.1/Thu Mar 26 09:45:56 2015//Tnetbsd-7-0-RELEASE
+/ftgrays.h/1.1.1.2/Mon Nov 22 08:33:23 2010//Tnetbsd-7-0-RELEASE
+/ftsmerrs.h/1.1.1.2/Wed Jun  5 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/ftsmooth.c/1.6.2.1/Thu Mar 26 09:45:56 2015//Tnetbsd-7-0-RELEASE
+/ftsmooth.h/1.1.1.2/Mon Nov 22 08:33:23 2010//Tnetbsd-7-0-RELEASE
+/ftspic.c/1.1.1.2/Wed Jun  5 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/ftspic.h/1.1.1.2/Wed Jun  5 07:49:47 2013//Tnetbsd-7-0-RELEASE
+/module.mk/1.1.1.2/Mon Apr 13 18:50:28 2009//Tnetbsd-7-0-RELEASE
+/rules.mk/1.1.1.2/Sat Jul 23 23:26:34 2011//Tnetbsd-7-0-RELEASE
+/smooth.c/1.1.1.2/Mon Nov 22 08:33:23 2010//Tnetbsd-7-0-RELEASE
+D

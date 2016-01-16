@@ -1,0 +1,20 @@
+/Makefile/1.15/Tue Jun 10 01:42:39 2014//Tnetbsd-7-0-RELEASE
+/amdpcib.4/1.2/Fri Aug  6 16:44:06 2010//Tnetbsd-7-0-RELEASE
+/apic.4/1.1/Mon Jun  6 16:52:15 2011//Tnetbsd-7-0-RELEASE
+/balloon.4/1.11/Tue Mar 18 18:20:40 2014//Tnetbsd-7-0-RELEASE
+/coretemp.4/1.4/Tue Mar 18 18:20:40 2014//Tnetbsd-7-0-RELEASE
+/est.4/1.4/Thu Oct 20 13:54:38 2011//Tnetbsd-7-0-RELEASE
+/fdc.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-7-0-RELEASE
+/fwhrng.4/1.1/Fri Aug  6 17:00:13 2010//Tnetbsd-7-0-RELEASE
+/hpet.4/1.3/Tue Jun 14 13:59:24 2011//Tnetbsd-7-0-RELEASE
+/ichlpcib.4/1.5/Fri Mar 18 21:17:17 2011//Tnetbsd-7-0-RELEASE
+/lpt.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-7-0-RELEASE
+/mem.4/1.1/Fri Sep 23 14:45:06 2011//Tnetbsd-7-0-RELEASE
+/odcm.4/1.4/Fri Mar  4 13:49:26 2011//Tnetbsd-7-0-RELEASE
+/powernow.4/1.2/Fri Mar  4 05:58:07 2011//Tnetbsd-7-0-RELEASE
+/soekrisgpio.4/1.5/Tue Mar 18 18:20:40 2014//Tnetbsd-7-0-RELEASE
+/tprof_amdpmi.4/1.2/Fri Dec  2 14:38:51 2011//Tnetbsd-7-0-RELEASE
+/tprof_pmi.4/1.2/Fri Dec  2 14:38:51 2011//Tnetbsd-7-0-RELEASE
+/vmt.4/1.6/Mon Oct  7 04:04:57 2013//Tnetbsd-7-0-RELEASE
+/vmx.4/1.2/Tue Jun 10 07:26:19 2014//Tnetbsd-7-0-RELEASE
+D

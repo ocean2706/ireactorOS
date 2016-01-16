@@ -1,0 +1,9 @@
+/atomic.ll/1.1.1.2/Fri May 30 18:11:24 2014//Tnetbsd-7-0-RELEASE
+/no_sanitize_thread.ll/1.1.1.1/Thu Nov 28 14:18:09 2013//Tnetbsd-7-0-RELEASE
+/read_before_write.ll/1.1.1.1/Thu Nov 28 14:18:09 2013//Tnetbsd-7-0-RELEASE
+/read_from_global.ll/1.1.1.1.6.1/Thu Jun  4 20:05:21 2015//Tnetbsd-7-0-RELEASE
+/tsan-vs-gvn.ll/1.1.1.1/Thu Nov 28 14:18:09 2013//Tnetbsd-7-0-RELEASE
+/tsan_basic.ll/1.1.1.2/Sun Aug 10 17:04:41 2014//Tnetbsd-7-0-RELEASE
+/vptr_read.ll/1.1.1.1.6.1/Thu Jun  4 20:05:21 2015//Tnetbsd-7-0-RELEASE
+/vptr_update.ll/1.1.1.2.6.1/Thu Jun  4 20:05:21 2015//Tnetbsd-7-0-RELEASE
+D

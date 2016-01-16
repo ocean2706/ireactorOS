@@ -1,0 +1,30 @@
+/BUILDING/1.109.2.1/Fri Nov 14 14:58:27 2014//Tnetbsd-7-0-RELEASE
+/Makefile/1.309.2.2/Mon May  4 20:24:42 2015//Tnetbsd-7-0-RELEASE
+/Makefile.inc/1.4/Wed Apr 10 14:53:43 2002//Tnetbsd-7-0-RELEASE
+/UPDATING/1.257/Wed Jul 23 08:52:32 2014//Tnetbsd-7-0-RELEASE
+/build.sh/1.294.2.3/Fri Nov 14 14:58:27 2014//Tnetbsd-7-0-RELEASE
+D/bin////
+D/common////
+D/compat////
+D/crypto////
+D/dist////
+D/distrib////
+D/doc////
+D/etc////
+D/external////
+D/extsrc////
+D/games////
+D/gnu////
+D/include////
+D/lib////
+D/libexec////
+D/regress////
+D/rescue////
+D/sbin////
+D/share////
+D/sys////
+D/tests////
+D/tools////
+D/usr.bin////
+D/usr.sbin////
+D/x11////

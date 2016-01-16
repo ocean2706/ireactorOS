@@ -1,0 +1,69 @@
+1	french	x-vnd.Haiku-MediaConverter	341686525
+Video using parameters form settings	MediaConverter		La vidéo utilise les paramètres de réglages
+{0, plural, one{The file was not recognized as a supported media file:} other{# files were not recognized as supported media files:}}	MediaConverter		{0, plural, one{Le fichier n’est pas un média supporté :} other{# fichiers ne sont des médias supportés :}}
+Video encoding:	MediaConverter		Encodage vidéo :
+%u x %u, %.2ffps	MediaFileInfo	Width x Height, fps	%u x %u, %.2f fps
+Error read audio frame %lld	MediaConverter		Erreur de lecture de l’échantillon audio %lld
+No audio	Audio codecs list		Pas de son
+Error	MediaConverter		Erreur
+{0, plural, one{# bit} other{# bits}}	MediaFileInfo		{0, plural, one{# bit} other{# bits}}
+Error loading a file	MediaConverter		Erreur au chargement d’un fichier
+Error read video frame %lld	MediaConverter		Erreur de lecture de l’image vidéo %lld
+File Error	MediaConverter-FileInfo		Erreur Fichier
+Open…	Menu		Ouvrir…
+Start [ms]: 	MediaConverter		Début [ms] : 
+Output file '%filename' created	MediaConverter		Le fichier cible « %filename » a été créé
+Output format	MediaConverter		Format de sortie
+End   [ms]: 	MediaConverter		Fin [ms] : 
+MediaConverter	System name		MédiaConvertisseur
+No video	Video codecs list		Pas de vidéo
+Duration:	MediaConverter-FileInfo		Durée :
+OK	MediaConverter		OK
+%.1f kHz mono	MediaFileInfo		%.1f kHz mono
+Error converting '%filename'	MediaConverter		Erreur à la conversion de « %filename »
+Low	MediaConverter		Basse
+Conversion completed	MediaConverter		Conversion achevée
+Audio:	MediaConverter-FileInfo		Audio :
+OK	MediaConverter-FileInfo		OK
+ seconds	MediaFileInfo		 secondes
+Source files	MediaConverter		Fichiers sources
+Error writing video frame %lld	MediaConverter		Erreur d’écriture de la trame vidéo %lld
+{0, plural, one{# frame} other{# frames}}	MediaFileInfo		{0, plural, one{# trame} other{# trames}}
+Error writing audio frame %lld	MediaConverter		Erreur d’écriture de l’échantillon audio %lld
+Cancelling	MediaConverter		Annulation
+{0, plural, one{# byte} other{# bytes}}	MediaFileInfo		{0, plural, one{# octet} other{# octets}}
+Error loading files	MediaConverter		Erreur de chargement des fichiers
+Cancel	MediaConverter		Annuler
+None available	Video codecs		Aucun disponible
+Conversion cancelled	MediaConverter		Conversion annulée
+No file selected	MediaConverter-FileInfo		Aucun fichier sélectionné
+Select this folder	MediaConverter		Sélectionner ce dossier
+Continue	MediaConverter		Continuer
+Encoder parameters	MediaConverter-EncoderWindow		Paramètres d’encodage
+Video:	MediaConverter-FileInfo		Vidéo :
+%d bit 	MediaFileInfo		%d bits 
+Error creating '%filename'	MediaConverter		Erreur à la création de « %filename »
+Video quality not supported	MediaConverter		Qualité vidéo non prise en charge
+Cancelling…	MediaConverter		Annulation…
+File details	MediaConverter		Détails du fichier
+Select	MediaConverter		Sélectionner
+Writing video track: %ld%% complete	MediaConverter		Écriture de la piste vidéo : %ld%% achevés
+Quit	Menu		Quitter
+Preview	MediaConverter		Aperçu
+File format:	MediaConverter		Format de fichier :
+None available	Audio codecs		Aucun disponible
+MediaConverter+:SaveDirectory	MediaConverter		MédiaConvertisseur+ : Dossier d’enregistrement
+Error launching: %strError%	MediaConverter		Erreur de lancement : %strError%
+High	MediaConverter		Haute
+Drop media files onto this window	MediaConverter		Déposez les médias à convertir dans cette fenêtre
+Audio encoding:	MediaConverter		Encodage audio :
+Audio quality not supported	MediaConverter		Qualité audio non prise en charge
+File	Menu		Fichier
+%.1f kHz stereo	MediaFileInfo		%.1f kHz stéréo
+Convert	MediaConverter		Convertir
+Writing audio track: %ld%% complete	MediaConverter		Écriture de la piste audio : %ld%% achevés
+Video quality: %3d%%	MediaConverter		Qualité vidéo : %3d%%
+%.1f kHz %ld channel	MediaFileInfo		%.1f kHz %ld canaux
+Output folder	MediaConverter		Dossier de sortie
+Audio quality: %3d%%	MediaConverter		Qualité audio : %3d%%
+An error has occurred reading the file info.\n\nError : 	MediaConverter-FileInfo		Une erreur est survenue lors de la lecture des informations du fichier.\n\nErreur : 

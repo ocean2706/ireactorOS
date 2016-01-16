@@ -1,0 +1,48 @@
+1	lithuanian	x-vnd.Haiku-HaikuDepot	2996812689
+Name	PackageListView		Pavadinimas
+Changelog	PackageInfoView		Pakeitimų žurnalas
+Click a package to view information	PackageInfoView		Spustelėkite paketą jo informacijai pamatyti
+for %Version%	PackageInfoView		versijai %Version%
+No changelog available.	PackageInfoView		Pakeitimų žurnalas neprieinamas.
+Depot:	FilterView		Saugykla:
+Description	PackageListView		Aprašas
+Install	PackageManager		Įdiegti
+Tools	MainWindow		Priemonės
+HaikuDepot	System name		Paketų tvarkytuvė
+Rate package…	PackageInfoView		Įvertinti paketą…
+Uninstall	PackageManager		Išdiegti
+<no info>	PackageInfoView		<informacijos nėra>
+An error occurred while initializing the package manager: %message%	MainWindow		Inicijuojant paketų tvarkytuvę, įvyko klaida: %message%
+Close	PackageManager		Užverti
+Status	PackageListView		Būsena
+Development	Model		Programuotojams
+Fatal error	PackageManager		Kritinė klaida
+Ratings	PackageInfoView		Įvertinimai
+Inactive	PackageListView		Neaktyvus
+Refresh depots	MainWindow		Atnaujinti saugyklas
+Main Menu	MainWindow		Pagrindinis meniu
+(%Votes%)	PackageInfoView		(%Votes%)
+Downloading:	PackageInfoView		Parsiunčiamas:
+Search terms:	FilterView		Ieškomi žodžiai:
+%Version%	PackageInfoView		%Version%
+No user ratings available.	PackageInfoView		Naudotojų įvertinimų nėra.
+An error occurred while refreshing the repository: %error% (%details%)	MainWindow		Atnaujinant saugyklos turinį, įvyko klaida: %error% (%details%)
+Productivity	Model		Raštinė
+Games	Model		Žaidimai
+Rating	PackageListView		Įvertinimas
+Graphics	Model		Grafika
+Local	MainWindow		Vietinis
+Close	MainWindow		Užverti
+Video	Model		Video
+An error occurred while refreshing the repository: %error%	MainWindow		Atnaujinant saugyklos turinį, įvyko klaida: %error%
+Pending…	PackageListView		Laukiama…
+Depot	FilterView		Visos saugyklos
+Uninstalled	PackageListView		Išdiegti
+Unknown	PackageListView		Nežinoma
+All depots	FilterView		Visos saugyklos
+Available	PackageListView		Prieinamas
+n/a	PackageInfoView		n/d
+Send	RatePackageWindow		Siųsti
+Audio	Model		Audio
+About	PackageInfoView		Apie
+Active	PackageListView		Aktyvus
