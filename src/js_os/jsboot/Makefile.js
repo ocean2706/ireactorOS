@@ -8,7 +8,7 @@ Intermediate code: asm and c code
 Depend on js-bootlib - the library for performing low level routines
 Output result: uefi/mbr boot code able to load ntldr, freebsd, linux and other os kernels
 
-Inspiration Sources: libreboot,coreboot,
+Inspiration Sources: libreboot,coreboot,grub, lilo, u.a
 */
 
 
