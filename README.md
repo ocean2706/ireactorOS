@@ -4,7 +4,7 @@ ireactorOS
 ireactor and superecmascript based full os
 
 #Goals
-## Integrate low level win32 and 
+## Integrate low level win32 and other good api 
 The virtualisation is slow and unreliable for desktop/laptop 
 The reactos have done good job but it pay tribute to 
 The wine project can run some but need to be more tightened to the core os.
