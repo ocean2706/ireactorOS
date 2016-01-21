@@ -16,7 +16,8 @@ in order to make the system mobile-ready !
 ##Chapters x86
 
 1. IReactor Boot Loader
-  
+  1. MBR
+  2. EFI
 
 2. IReactor Specific SYS Calls
 
