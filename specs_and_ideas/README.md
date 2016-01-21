@@ -24,7 +24,7 @@ in order to make the system mobile-ready !
   1. Linux Binary Compatibility
   2. FreeBsd Binary Compatibility (bsd-binary compatibility)
   3. Win32 Binary Compatibility (heavly   based on ReactOS and Wine work )
-  4. BeOS/Haiku Binary Compatibility (based on haiku right now ) - future goal if requested
+  4. BeOS/Haiku Binary Compatibility (based on haiku right now ) - as future goal, if requested
   
 4. IReactor installer
 5. Core video calls and compatibility. Native 2D/3D accelerator for core video
